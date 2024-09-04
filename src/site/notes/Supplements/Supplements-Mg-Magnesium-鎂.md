@@ -8,7 +8,7 @@
 
 > 個人實測：吃了好睡很多也放鬆很多
 
-鎂參與全身超過300種以上的作用 @churiyixue-songyanrenyishixcofitTouTongShi2023_7PB76KUH [[churiyixue-songyanrenyishixcofitTouTongShi2023_7PB76KUH\|(Notes)]] ，如果缺乏的話會
+鎂參與全身超過300種以上的作用  ，如果缺乏的話會
 * 影響新陳代謝和神經傳導
 * 焦躁
 * 易疲勞抽筋
@@ -21,7 +21,7 @@
 ---
 
 # 為什麼會缺乏
-@churiyixue-songyanrenyishixcofitTouTongShi2023_7PB76KUH [[churiyixue-songyanrenyishixcofitTouTongShi2023_7PB76KUH\|(Notes)]]
+
 1. 現在的食物本來就比以前還要缺鎂
 2. 運動後沒補電解質
 3. 一直喝茶和咖啡和酒精
@@ -38,7 +38,7 @@
 
 # 食物
 
-菠菜 @churiyixue-songyanrenyishixcofitTouTongShi2023_7PB76KUH [[churiyixue-songyanrenyishixcofitTouTongShi2023_7PB76KUH\|(Notes)]]
+菠菜 
 
 
 ---
