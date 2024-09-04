@@ -1,9 +1,9 @@
 ---
-{"title":"鎂 Magnesium","aliases":["Mg","Magnesium","鎂"],"type":["🍶 Supplement"],"一起吃很好":["[[Supplements/Supplements-Calcium-Ca-鈣\|鈣]]","[[Supplements/Supplements-Mg-Magnesium-鎂\|鎂]]"],"不要一起❌":["[[Supplements/Supplements-Zinc-Zn-鋅\|Zn]]"],"最佳時間":["睡前"],"主攻":null,"量":null,"rate":null,"tags":null,"dg-publish":true,"permalink":"/Supplements/Supplements-Mg-Magnesium-鎂/","dgPassFrontmatter":true,"created":"2024-08-25T11:22:45.000+08:00","updated":"2024-09-04T21:14:10.315+08:00"}
+{"dg-publish":true,"permalink":"/Supplements/Supplements-Mg-Magnesium-鎂/","title":"鎂 Magnesium","created":"2024-08-25T11:22:45.000+08:00","updated":"2024-09-04T21:14:10.315+08:00"}
 ---
 
-一起吃很好：[[Supplements-Calcium-Ca-鈣|鈣]] [[Supplements-Mg-Magnesium-鎂|鎂]]
-不要一起：[[Supplements-Zinc-Zn-鋅|Zn]]
+一起吃很好：[[Supplements/Supplements-Calcium-Ca-鈣\|鈣]] [[Supplements/Supplements-Mg-Magnesium-鎂\|鎂]]
+不要一起：[[Supplements/Supplements-Zinc-Zn-鋅\|Zn]]
 # 好處
 
 > 個人實測：吃了好睡很多也放鬆很多
