@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Supplements/Supplements-Mg-Magnesium-鎂/","title":"鎂 Magnesium","created":"2024-08-25T11:22:45.000+08:00","updated":"2024-09-04T22:38:45.634+08:00"}
+{"dg-publish":true,"permalink":"/Supplements/Supplements-Mg-Magnesium-鎂/","title":"鎂 Magnesium","created":"2024-08-25T11:22:45.000+08:00","updated":"2024-09-04T22:40:11.998+08:00"}
 ---
 
 一起吃不錯 Great to serve together：[[Supplements/Supplements-Calcium-Ca-鈣\|鈣-Ca]] [[Supplements/Supplements-Mg-Magnesium-鎂\|鎂-Mg]]
@@ -9,14 +9,16 @@
 > 個人實測：吃了好睡很多也放鬆很多
 
 鎂參與全身超過300種以上的作用[<1>](https://www.youtube.com/watch?v=3mhR8rA2s-4)
-如果缺乏的話：
+## 如果缺乏的話：
+
 * 影響新陳代謝和神經傳導
 * 焦躁
 * 易疲勞抽筋
 * 可能導致肥胖
 * 骨質疏鬆
 
-如果足夠：
+## 如果足夠：
+
 * 改善睡眠
 * 抗發炎
 ---
