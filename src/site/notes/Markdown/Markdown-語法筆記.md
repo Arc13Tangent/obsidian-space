@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Markdown/Markdown-語法筆記/","created":"2024-09-01T20:47:29.000+08:00","updated":"2024-09-04T21:40:33.483+08:00"}
+{"dg-publish":true,"permalink":"/Markdown/Markdown-語法筆記/","title":"Markdown 語法筆記","created":"2024-09-01T20:47:29.000+08:00","updated":"2024-09-04T23:30:00.660+08:00"}
 ---
-
-
-
-# md語法筆記
 
 ## 文字效果
 
