@@ -12,7 +12,7 @@ body {
     top: 45px;
     left: 20px;
     position: fixed;
-    height: calc(100% - 120px);
+    height: calc(100% - 100px);
     display: flex;
     flex-direction: column;
     border-radius: 10px;
@@ -68,7 +68,7 @@ body {
 
   .sidebar {
     position: fixed;
-    top: 45px;
+    top: 25px;
     right: 17px;
     height: 100%;
     min-width: 25px;
