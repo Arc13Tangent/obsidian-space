@@ -9,7 +9,7 @@ body {
 
   /* https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss */
   nav.filetree-sidebar {
-    top: 85px;
+    top: 45px;
     left: 20px;
     position: fixed;
     height: calc(100% - 160px);
@@ -48,7 +48,7 @@ body {
       display: none !important;
     }
     h1 {
-      font-size: 26px !important;
+      font-size: 32px !important;
     }
     /*
     h1::before {
