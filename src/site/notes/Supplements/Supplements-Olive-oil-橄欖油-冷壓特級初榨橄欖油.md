@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Supplements/Supplements-Olive-oil-橄欖油-冷壓特級初榨橄欖油/","title":"橄欖油 Olive oil","created":"2024-08-25T10:18:09.000+08:00","updated":"2024-09-05T02:39:48.875+08:00"}
+{"dg-publish":true,"permalink":"/Supplements/Supplements-Olive-oil-橄欖油-冷壓特級初榨橄欖油/","title":"橄欖油 Olive oil","created":"2024-08-25T10:18:09.000+08:00","updated":"2024-09-05T17:11:32.178+08:00"}
 ---
 
 一起吃不錯 Great to serve together：脂溶性維生素
@@ -17,10 +17,10 @@
 
 這邊和魚油的狀況有點類似，以現在的飲食習慣來說，人體不太可能會缺油脂(可能還有點太多了……)。然而油脂也有分較好的與較壞的。
 
-橄欖油有73%的單元不飽和脂肪酸 @GanLanYou2019_9D22FCCV [[GanLanYou2019_9D22FCCV\|(Notes)]] @GanLanYou2023_HX78W45J [[GanLanYou2023_HX78W45J\|(Notes)]]。簡單來說，不飽和脂肪相較於飽和脂肪來說對人體比較好。原因是不飽和脂肪酸能降低身體裡的壞膽固醇(低密度LDL)並提高好膽固醇(高密度HDL) @DanBuBao2022_ZKVBCIKR [[DanBuBao2022_ZKVBCIKR\|(Notes)]]。
-然而目前的飲食習慣，大部分吃到的會是飽和脂肪(例如來自動物肉品或是乳製品) @GanLanYou2023_HX78W45J [[GanLanYou2023_HX78W45J\|(Notes)]]，所以如果煮東西的時候可以用橄欖油，就可以增加單元不飽和脂肪酸攝取的比例。
+橄欖油有73%的單元不飽和脂肪酸  。簡單來說，不飽和脂肪相較於飽和脂肪來說對人體比較好。原因是不飽和脂肪酸能降低身體裡的壞膽固醇(低密度LDL)並提高好膽固醇(高密度HDL) 。
+然而目前的飲食習慣，大部分吃到的會是飽和脂肪(例如來自動物肉品或是乳製品) ，所以如果煮東西的時候可以用橄欖油，就可以增加單元不飽和脂肪酸攝取的比例。
 
-注意到橄欖油並不是唯一一個單元不飽和脂肪酸多的油，例如芥花籽油也是 @GanLanYou_LCXA32NW [[GanLanYou_LCXA32NW\|(Notes)]]。
+注意到橄欖油並不是唯一一個單元不飽和脂肪酸多的油，例如芥花籽油也是 。
 
 ---
 
