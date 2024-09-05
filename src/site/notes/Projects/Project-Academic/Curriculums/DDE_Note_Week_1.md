@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Project-Academic/Curriculums/DDE_Note_Week_1/","created":"2024-09-05T18:22:07.310+08:00","updated":"2024-09-05T19:16:29.761+08:00"}
+{"dg-publish":true,"permalink":"/Projects/Project-Academic/Curriculums/DDE_Note_Week_1/","created":"2024-09-05T18:22:07.000+08:00","updated":"2024-09-05T20:04:00.489+08:00"}
 ---
 
 # 第一週：什麼是DDE？
