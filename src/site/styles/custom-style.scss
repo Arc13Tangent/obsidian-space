@@ -54,13 +54,8 @@ body {
   }
 
   .sidebar {
-    top: 75px;
+    padding-top: 75px;
     max-width: 320px;
-  }
-
-  .sidebar-container {
-    padding-right: 0px;
-    justify-content: center;
   }
 
   .sidebar::before {
@@ -76,6 +71,11 @@ body {
     /* 或使用 cover，具體看需求 */
     background-repeat: no-repeat;
     background-position: center;
+  }
+
+  .sidebar-container {
+    padding-right: 0px;
+    justify-content: center;
   }
 
   #link-graph {
