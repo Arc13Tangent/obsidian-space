@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/插件用途-plugins/","tags":["Obsidian"],"created":"2024-09-02T10:15:36.000+08:00","updated":"2024-09-04T23:12:54.740+08:00"}
+{"dg-publish":true,"permalink":"/插件用途-plugins/","tags":["Obsidian"],"created":"2024-09-02T10:15:36.000+08:00","updated":"2024-09-05T17:34:19.025+08:00"}
 ---
 
 # 插件用途
@@ -16,12 +16,16 @@ Obsidian的靈魂應該就是上千個自由安裝的open source的插件了
 只列出自己有裝的，***這樣***代表非常非常推薦裝，**這樣**代表很推薦裝
 
 1. Attachment Management: 把文件的附件整理好。喜歡在檔案裡面放圖片，或是用[[插件用途-plugins#^1dfb2a\|ZotLit]]把註記抓到檔案裡面時，有這個就很方便查看到底有哪些圖片
+   
 2. Better Search View: 在搜尋時可以顯示詳細內容，更精確判斷是要開哪個檔案
+   
 3. Better Word Count: 就是下面多了一個算反白的範圍有幾個字XD
+   
 4. BRAT: 裝beta版插件
 { #009081}
 
     - jupyter: 其實應該是沒什麼用obsidian開ipynb的理由，但覺得很酷就裝了
+      
 5. **Calendar**:  寫日記用。表面上是這樣，但因為很多和時間相關的插件也仰賴日記系統，所以莫名變得很重要XDD
    (比如[[插件用途-plugins#^5a5fff\|Day Planner]]或是其它time sensitive的功能，例如時間到就提醒要做什麼tasks之類的)
 6. **Callout Manager**: 設定callout用，例如文獻筆記中，可以自訂一個叫做yellow的callout(同時[[插件用途-plugins#^1dfb2a\|ZotLit]]也設定好格式後)，把註記拉到文件裡面就真的會變黃色的，舒服。
@@ -29,6 +33,7 @@ Obsidian的靈魂應該就是上千個自由安裝的open source的插件了
    例如最左邊的Ribbon區，我設定從上到下是[[插件用途-plugins#^2f66c3\|Project]], Google Calendar([[插件用途-plugins#^e23c88\|Custom Frame]]), Overleaf([[插件用途-plugins#^e23c88\|Custom Frame]]), ChatGPT([[插件用途-plugins#^e23c88\|Custom Frame]]), [[插件用途-plugins#^009081\|Jupyter]]：
    ![Imgur](https://imgur.com/tAJMQkI.jpeg)
    如果沒有這個插件，這邊會被一堆東西塞爆XD
+   
 8. **Custom Frame**: 如果有什麼網頁想用ob開就是這個了，好用，工作流不會斷掉，我弄了：
 { #e23c88}
 
