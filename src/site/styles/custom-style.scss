@@ -54,7 +54,12 @@ body {
   }
 
   .sidebar {
+    top: 15px;
     max-width: 320px;
+    background-image: url(/img/nyan-cat.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 
   .sidebar-container {
