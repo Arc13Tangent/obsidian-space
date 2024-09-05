@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"3","created":"2024-09-04T17:53:28.773+08:00","updated":"2024-09-06T03:04:50.098+08:00"}
+{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"2","created":"2024-09-04T17:53:28.773+08:00","updated":"2024-09-06T03:17:36.983+08:00"}
 ---
 
 This is the home page of arcTangent's OuOb space!
