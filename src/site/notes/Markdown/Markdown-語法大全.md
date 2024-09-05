@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Markdown/Markdown-語法大全/","title":"Markdown 語法大全","created":"2024-08-24T23:00:12.607+08:00","updated":"2024-09-05T03:28:30.572+08:00"}
+{"dg-publish":true,"permalink":"/Markdown/Markdown-語法大全/","title":"Markdown 語法大全","created":"2024-08-24T23:00:12.607+08:00","updated":"2024-09-05T19:25:36.431+08:00"}
 ---
+
+@copyright MRcoding筆記 
+[MarkDown語法大全 - HackMD](https://hackmd.io/@mrcoding/ryZE7k8cN)
 
 - [[Markdown/Markdown-語法大全#副標\|副標]]
 - [[Markdown/Markdown-語法大全#字體大小\|字體大小]]
@@ -21,8 +24,6 @@
 - [[Markdown/Markdown-語法大全#短區塊\|短區塊]]
 - [[Markdown/Markdown-語法大全#CheckBox\|CheckBox]]
 - [[Markdown/Markdown-語法大全#跳脫字元\|跳脫字元]]
-
-@copyright MRcoding筆記
 
 ---
 
