@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Project-Academic/Curriculums/DDE_Note_Week_1/","created":"2024-09-05T18:22:07.000+08:00","updated":"2024-09-05T20:04:00.489+08:00"}
+{"dg-publish":true,"permalink":"/Projects/Project-Academic/Curriculums/DDE_Note_Week_1/","noteIcon":"1","created":"2024-09-05T18:22:07.000+08:00","updated":"2024-09-06T00:34:06.916+08:00"}
 ---
 
 # 第一週：什麼是DDE？
@@ -53,6 +53,7 @@ $k$前面的負號是負回饋的意思ie 水溫比預期大應該是往下調
 雖然這個方法就已經告訴你解了，但寫出來很醜，然後你看不出他的行為，例如時間跑到無窮大會發生什麼事
 如果你的delay也和時間有關(distributed delay $\leftrightarrow$ discrete delay)，這個方法也沒辦法解(why?)
 
+([[Journal/Daily/Diary-2024-09-05-Thu\|2024-09-05]])
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Supplements/Supplements-Zinc-Zn-鋅/","title":"鋅","created":"2024-08-25T10:59:18.000+08:00","updated":"2024-09-04T22:46:53.909+08:00"}
+{"dg-publish":true,"permalink":"/Supplements/Supplements-Zinc-Zn-鋅/","title":"鋅","noteIcon":"1","created":"2024-08-25T10:59:18.000+08:00","updated":"2024-09-04T22:46:53.909+08:00"}
 ---
 
 一起吃不錯 Great to serve together：

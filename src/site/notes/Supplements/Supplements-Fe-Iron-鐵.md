@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Supplements/Supplements-Fe-Iron-鐵/","title":"鐵","created":"2024-08-25T11:03:40.000+08:00","updated":"2024-09-04T22:47:50.693+08:00"}
+{"dg-publish":true,"permalink":"/Supplements/Supplements-Fe-Iron-鐵/","title":"鐵","noteIcon":"1","created":"2024-08-25T11:03:40.000+08:00","updated":"2024-09-04T22:47:50.693+08:00"}
 ---
 
 一起吃不錯 Great to serve together：[[Supplements/Supplements-維他命C\|維他命C-C]]
