@@ -53,6 +53,10 @@ body {
     }
   }
 
+  .sidebar {
+    max-width: 320px;
+  }
+
   .sidebar-container {
     padding-right: 0px;
     justify-content: center;
@@ -67,7 +71,7 @@ body {
 
   .backlinks {
     flex: 1;
-    margin-top: 10px;
+    margin-top: 0px;
     background-color: var(--background-primary);
     border-radius: 10px;
     padding: 10px;
