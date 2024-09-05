@@ -55,7 +55,7 @@ body {
 
   .sidebar {
     max-width: 320px;
-    padding-top: 80px;
+    padding-top: 50px;
     /* 這個值應該大約等於GIF的高度 */
   }
 
@@ -65,9 +65,9 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: 80px;
+    height: 40px;
     /* 這個值應該是GIF的高度 */
-    background-image: url(/img/nyan-cat.gif);
+    background-image: url(/img/banner.gif);
     background-size: contain;
     /* 或使用 cover，具體看需求 */
     background-repeat: no-repeat;
