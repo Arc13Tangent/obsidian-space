@@ -54,23 +54,8 @@ body {
   }
 
   .sidebar {
+    top: 75px;
     max-width: 320px;
-    padding-top: 30px;
-    /* 這個值應該大約等於GIF的高度 */
-  }
-
-  .sidebar::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    /* 這個值應該是GIF的高度 */
-    background-image: url(/img/banner.gif);
-    background-size: contain;
-    /* 或使用 cover，具體看需求 */
-    background-repeat: no-repeat;
-    background-position: center;
   }
 
   .sidebar-container {
