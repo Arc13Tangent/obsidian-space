@@ -10,9 +10,9 @@ body {
   /* https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss */
   nav.filetree-sidebar {
     top: 15px;
-    left: 20px;
+    left: 15px;
     position: fixed;
-    height: calc(100% - 45px);
+    height: calc(100% - 30px);
     display: flex;
     flex-direction: column;
     border-radius: 10px;
@@ -54,7 +54,6 @@ body {
   }
 
   .sidebar-container {
-    top: 30px;
     padding-right: 20px;
     width: 100%;
     overflow-y: auto;
