@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Markdown/Markdown-語法大全/","title":"Markdown 語法大全","created":"2024-08-24T23:00:12.607+08:00","updated":"2024-09-05T00:39:03.554+08:00"}
+{"dg-publish":true,"permalink":"/Markdown/Markdown-語法大全/","title":"Markdown 語法大全","created":"2024-08-24T23:00:12.607+08:00","updated":"2024-09-05T03:28:30.572+08:00"}
 ---
 
 - [[Markdown/Markdown-語法大全#副標\|副標]]
@@ -21,7 +21,6 @@
 - [[Markdown/Markdown-語法大全#短區塊\|短區塊]]
 - [[Markdown/Markdown-語法大全#CheckBox\|CheckBox]]
 - [[Markdown/Markdown-語法大全#跳脫字元\|跳脫字元]]
-				- [[#tags: `MarkDown教學` `HackMD新手教學`|tags: `MarkDown教學` `HackMD新手教學`]]
 
 @copyright MRcoding筆記
 
