@@ -12,7 +12,7 @@ body {
     top: 30px;
     left: 20px;
     position: fixed;
-    height: calc(100% - 65px);
+    height: calc(100% - 45px);
     display: flex;
     flex-direction: column;
     border-radius: 10px;
@@ -51,6 +51,16 @@ body {
     h1 {
       font-size: 32px !important;
     }
+  }
+
+  .sidebar-container {
+    padding-right: 20px;
+    width: 100%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: calc(100% - 45px);
   }
 
 }
