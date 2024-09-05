@@ -56,10 +56,16 @@ body {
   .sidebar {
     top: 15px;
     max-width: 320px;
-    background-image: url(/img/nyan-cat.gif);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+    h1::before {
+      content: " ";
+      display: block;
+      width: 100%;
+      height: 3em;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-image: url(/img/nyan-cat.gif);
+      background-position: center;
+    }
   }
 
   .sidebar-container {
