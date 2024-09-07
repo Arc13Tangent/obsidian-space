@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Markdown/Markdown-Obsidian語法筆記/","title":"Markdown 語法筆記 in Obsidian","noteIcon":"1","created":"2024-09-01T20:47:29.000+08:00","updated":"2024-09-06T00:21:33.000+08:00"}
+{"dg-publish":true,"permalink":"/Markdown/Markdown-Obsidian語法筆記/","title":"Markdown 語法筆記 in Obsidian","tags":["Obsidian"],"noteIcon":"1","created":"2024-09-01T20:47:29.000+08:00","updated":"2024-09-07T23:27:36.196+08:00"}
 ---
 
 ## 文字效果
