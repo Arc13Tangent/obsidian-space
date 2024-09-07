@@ -61,7 +61,8 @@ body {
   .sidebar::before {
     content: '';
     position: absolute;
-    top: -55px;;
+    top: -55px;
+    ;
     left: 0;
     width: 100%;
     height: 75px;
@@ -123,6 +124,38 @@ body {
 
     .toc {
       display: none;
+    }
+  }
+
+  #theme-switch {
+    .light {
+      display: none;
+    }
+
+    .dark {
+      display: none;
+    }
+
+    .auto {
+      display: none;
+    }
+  }
+
+  #theme-switch.light {
+    .light {
+      display: inline;
+    }
+  }
+
+  #theme-switch.dark {
+    .dark {
+      display: inline;
+    }
+  }
+
+  #theme-switch.auto {
+    .auto {
+      display: inline;
     }
   }
 
