@@ -44,7 +44,7 @@
 
 
 
-![float-left|150](https://images.squarespace-cdn.com/content/v1/5fed55498500a82fe9d2f441/1676889510531-WJX4B9SKJ4WPUZU2QEZK/Uri+Gneezy.png)
+![float-right|150](https://images.squarespace-cdn.com/content/v1/5fed55498500a82fe9d2f441/1676889510531-WJX4B9SKJ4WPUZU2QEZK/Uri+Gneezy.png)
 
 - 加州大學聖地牙哥校區瑞帝管理學院經濟學教授
 - 艾普斯坦／阿特金森行為經濟學名譽講座教授
@@ -60,6 +60,8 @@
 > [!info] 譯者簡介
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
 
 
 
