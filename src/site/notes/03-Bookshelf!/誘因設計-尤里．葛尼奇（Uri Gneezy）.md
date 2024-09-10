@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-Bookshelf!/誘因設計-尤里．葛尼奇（Uri Gneezy）/","title":"誘因設計","noteIcon":"1","created":"2024-09-10T22:49:43.052+08:00","updated":"2024-09-10T23:12:01.536+08:00"}
+{"dg-publish":true,"permalink":"/03-Bookshelf!/誘因設計-尤里．葛尼奇（Uri Gneezy）/","title":"誘因設計","noteIcon":"1","created":"2024-09-10T22:49:43.052+08:00","updated":"2024-09-10T23:26:46.622+08:00"}
 ---
 
 
@@ -60,6 +60,11 @@
 > 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# 周宜芳
+
+</div>
 
 
 
