@@ -168,6 +168,31 @@ body {
     --callout-icon: lucide-messages-square;
   }
 
+  .marquee {
+    width: 100%;
+    /* 視需要調整寬度 */
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+
+  .marquee div {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 10s linear infinite;
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+
 }
 
 body.theme-light .sidebar::before {
