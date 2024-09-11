@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE_Note_Week_1/","title":"DDE Note Week 1","tags":["DDE"],"noteIcon":"1","created":"2024-09-05T18:22:07.000+08:00","updated":"2024-09-11T22:12:19.051+08:00"}
+{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE_Note_Week_1/","title":"DDE Note Week 1","tags":["DDE"],"noteIcon":"1","created":"2024-09-05T18:22:07.000+08:00","updated":"2024-09-11T22:28:33.316+08:00"}
 ---
 
 # 第一週：什麼是DDE？
@@ -70,6 +70,11 @@ $k$前面的負號是負回饋的意思ie 水溫比預期大應該是往下調
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+<div class="markdown-embed-title">
+
+# Stepwise Regularity
+
+</div>
 
 
 
@@ -86,7 +91,7 @@ $k$前面的負號是負回饋的意思ie 水溫比預期大應該是往下調
 
 <div class="markdown-embed-title">
 
-# DDE解相交 solutions may intersect each other in DDE!
+# DDE解可能會相交 solutions may intersect each other in DDE!
 
 </div>
 
