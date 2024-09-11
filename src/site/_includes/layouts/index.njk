@@ -1,8 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
   <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
-    {%include "components/pageheader.njk"%}
+    <title>
+      {% if title %}
+        {{ title }}
+      {% else %}
+        {{ page.fileSlug }}
+      {% endif %}
+    </title>
+    {% include "components/pageheader.njk" %}
     {% for imp in dynamics.common.head %}
       {% include imp %}
     {% endfor %}
@@ -10,41 +16,41 @@
       {% include imp %}
     {% endfor %}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
-    {%include "components/notegrowthhistory.njk"%}
+  <body class="theme-{{ meta.baseTheme }} markdown-preview-view markdown-rendered markdown-preview-section {{ meta.bodyClasses
+      }}">
+    {% include "components/notegrowthhistory.njk" %}
     {% if settings.dgShowFileTree !== true %}
-      {%include "components/navbar.njk"%}
-    {%else%}
-      {%include "components/filetree.njk"%}
+      {% include "components/navbar.njk" %}
+    {% else %}
+      {% include "components/filetree.njk" %}
     {% endif %}
     {% if settings.dgEnableSearch === true %}
-      {%include "components/searchContainer.njk"%}
+      {% include "components/searchContainer.njk" %}
     {% endif %}
-    <main class="content cm-s-obsidian {{contentClasses}}">
+    <main class="content cm-s-obsidian {{ contentClasses }}">
       <header>
-      {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ noteTitle  }}</h1>
-      {% endif %}
-
-      <div class="header-meta">
-        {% if settings.dgShowTags === true and tags %}
-          <div class="header-tags">
-            {% for tag in tags %}
-              {% if tag != 'gardenEntry' and tag !='note' %}
-                <a class="tag" onclick="toggleTagSearch(this)">
-                  #{{tag}}
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
+        {% if settings.dgShowInlineTitle === true %}
+          <h1>{{ noteTitle }}</h1>
         {% endif %}
-      </div>
-      {% for imp in dynamics.common.header %}
-        {% include imp %}
-      {% endfor %}
-      {% for imp in dynamics.index.header %}
-        {% include imp %}
-      {% endfor %}
+        <div class="header-meta">
+          {% if settings.dgShowTags === true and tags %}
+            <div class="header-tags">
+              {% for tag in tags %}
+                {% if tag != 'gardenEntry' and tag !='note' %}
+                  <a class="tag" onclick="toggleTagSearch(this)">
+                    #{{ tag }}
+                  </a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+        {% for imp in dynamics.common.header %}
+          {% include imp %}
+        {% endfor %}
+        {% for imp in dynamics.index.header %}
+          {% include imp %}
+        {% endfor %}
       </header>
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
@@ -52,7 +58,7 @@
       {% for imp in dynamics.index.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {{ content | hideDataview | taggify | link | safe}}
+      {{ content | hideDataview | taggify | link | safe }}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
@@ -60,13 +66,11 @@
         {% include imp %}
       {% endfor %}
     </main>
-
-    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
-      {%include "components/sidebar.njk" %}
-    {%endif%}
-
+    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true %}
+      {% include "components/sidebar.njk" %}
+    {% endif %}
     {% if settings.dgLinkPreview === true %}
-      {%include "components/linkPreview.njk"%}
+      {% include "components/linkPreview.njk" %}
     {% endif %}
     {% for imp in dynamics.common.footer %}
       {% include imp %}
@@ -74,10 +78,11 @@
     {% for imp in dynamics.index.footer %}
       {% include imp %}
     {% endfor %}
-    {%include "components/lucideIcons.njk"%}
-
+    {% include "components/lucideIcons.njk" %}
     <div class="marquee">
-      🚀 Welcome to atan's OuOb Space! Enjoy your stay! 🌙 🚀 Welcome to atan's OuOb Space! Enjoy your stay! 🌙 🚀 Welcome to atan's OuOb Space! Enjoy your stay! 🌙 🚀 Welcome to atan's OuOb Space! Enjoy your stay! 🌙 🚀 Welcome to atan's OuOb Space! Enjoy your stay! 🌙
+      <div>
+        🚀 Welcome to atan's OuOb Space! Enjoy your stay! 🌙
+      </div>
     </div>
-    </body>
-  </html>
+  </body>
+</html>
