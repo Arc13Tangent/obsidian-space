@@ -3,11 +3,6 @@
   <head>
     <title>
       OuOb Space!
-      {% if title %}
-        {{ title }}
-      {% else %}
-        {{ page.fileSlug }}
-      {% endif %}
     </title>
     {% include "components/pageheader.njk" %}
     {% for imp in dynamics.common.head %}
