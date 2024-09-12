@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_Note_Week_1/","title":"DDE Note Week 1","tags":["DDE"],"noteIcon":"1","created":"2024-09-05T18:22:07.000+08:00","updated":"2024-09-11T22:49:51.624+08:00"}
+{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_Note_Week_1/","title":"DDE Note Week 1","tags":["DDE"],"noteIcon":"1","created":"2024-09-05T18:22:07.000+08:00","updated":"2024-09-12T14:37:22.000+08:00"}
 ---
 
 # 第一週：什麼是DDE？
