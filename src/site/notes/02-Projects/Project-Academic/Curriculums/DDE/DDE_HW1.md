@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_HW1/","title":"HW1","tags":["DDE"],"noteIcon":"1","created":"2024-09-02T07:54:52.000+08:00","updated":"2024-09-12T19:26:47.778+08:00"}
+{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_HW1/","title":"HW1","tags":["DDE"],"noteIcon":"1","created":"2024-09-02T07:54:52.000+08:00","updated":"2024-09-13T04:35:08.744+08:00"}
 ---
 
 # HW1
@@ -174,8 +174,14 @@ $$
     $$
     
     Since our $k$ are greater than $0$, we must narrow down our candidates of $n$ to be positive even integers, $0$, and negative odd integers. Finally, we can state our result:
-    
-    > Let $\text{sign}(x) = 1$ if $x$ is nonnegative and $\text{sign}(x)=-1$ if $x$ is negative. Set $V=\{ v: v=0, \text{or } v \text{ is a positive even integer or a negative odd integer} \} = \{ v_{j} \}_{j=1}^\infty.$  Then, for each delay $τ > 0$, there exist countably many $k_j = \text{sign}(v_{j})(2v_{j}+1)(π / 2\tau) > 0, j ∈ \mathbb{N}$, such that the DDE with $k = k_{j}$ has a periodic solution in the form
+    Set 
+    $$
+    \begin{align}
+    V &=\{ v: v=0, \text{or } v \text{ is a positive even integer or a negative odd integer} \} \\
+    &= \{ v_{j} \}_{j=1}^\infty.
+    \end{align}
+    $$ 
+    > Let $\text{sign}(x) = 1$ if $x$ is nonnegative and $\text{sign}(x)=-1$ if $x$ is negative. Then, for each delay $τ > 0$, there exist countably many $k_j = \text{sign}(v_{j})(2v_{j}+1)(π / 2\tau) > 0, j ∈ \mathbb{N}$, such that the DDE with $k = k_{j}$ has a periodic solution in the form
     > $$ T(t) = \cos(\omega_{j}t) = \cos\big((2v_{j}+1)({\pi} / {2\tau})t\big).\ \big(\omega_{j}=(2v_{j}+1)({\pi} / {2\tau})\big)$$
 
     With these periodic solutions and the trivial solution, we see that the solutions of the same equation can intersect with each other. (?!!!!) $\blacksquare$
