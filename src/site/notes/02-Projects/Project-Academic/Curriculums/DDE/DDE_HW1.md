@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_HW1/","title":"HW1","tags":["DDE"],"noteIcon":"1","created":"2024-09-02T07:54:52.000+08:00","updated":"2024-09-12T19:18:53.005+08:00"}
+{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_HW1/","title":"HW1","tags":["DDE"],"noteIcon":"1","created":"2024-09-02T07:54:52.000+08:00","updated":"2024-09-12T19:23:13.090+08:00"}
 ---
 
 # HW1
@@ -97,10 +97,10 @@ Consider the shower equation: $\dot{T}(t)=-k\big[T(t-\tau)-T_{d}\big]$ with $\ta
    2.  $\dot{T}(t)=-T_{1}(t-1)=-t+1$ when $t\in[1,2]$. Therefore, by the method of steps again,
       $$
       \begin{align}T(t)=T(1)+\int_{1}^t \dot{T}(s)ds &= T(1) - \int_{1}^t T_{1}(s-1)ds  \\ \\
-&= T(1)-∫_{1}^t [-(s-1)+1]ds \\ \\
-&= T(1)+\int_{1}^t (s-2)ds & \\ \\
-&= \hspace{0.4cm} 0 \hspace{0.3cm} + \frac{t^2}{2} -2t+\frac{3}{2}= \frac{t^2}{2} -2t+\frac{3}{2}.
-\end{align}
+      &= T(1)-∫_{1}^t [-(s-1)+1]ds \\ \\
+      &= T(1)+\int_{1}^t (s-2)ds & \\ \\
+      &= \hspace{0.4cm} 0 \hspace{0.3cm} + \frac{t^2}{2} -2t+\frac{3}{2}= \frac{t^2}{2} -2t+\frac{3}{2}.
+      \end{align}
       $$ 
       Hence, $T(2) = -1 / 2$. $\blacksquare$
 ### $\text{Problem 2}$ 
@@ -170,8 +170,9 @@ $$
     \begin{cases}
     \hspace{0.36cm}(2n+1)(\pi / {2\tau}), & \text{if $n$ even}\\
     -(2n+1)(\pi / {2\tau}), & \text{if $n$ odd}.
-	\end{cases}
+    \end{cases}
     $$
+    
     Since our $k$ are greater than $0$, we must narrow down our candidates of $n$ to be positive even integers, $0$, and negative odd integers. Finally, we can state our result:
     
     > Let $\text{sign}(x) = 1$ if $x$ is nonnegative and $\text{sign}(x)=-1$ if $x$ is negative. Set $V=\{ v: v=0, \text{or } v \text{ is a positive even integer or a negative odd integer} \} = \{ v_{j} \}_{j=1}^\infty$ . Then, for each delay $τ > 0$, there exist countably many $k_j = sign(v_{j})(2v_{j}+1)(π / 2\tau) > 0, j ∈ \mathbb{N}$, such that the DDE with $k = k_{j}$ has a periodic solution in the form
