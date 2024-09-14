@@ -199,21 +199,10 @@ body {
   a[href^='http']::after {
     content: '';
     display: inline-block;
-    width: 0.5em;
+    width: 1em;
     height: 1em;
     margin-left: 0.25em;
-    background-size: 70%;
-    background-image: url(/img/outgoing.svg);
-    background-repeat: no-repeat;
-  }
-
-  a[href^='zotero']::after {
-    content: '';
-    display: inline-block;
-    width: 0.5em;
-    height: 1em;
-    margin-left: 0.25em;
-    background-size: 70%;
+    background-size: 90%;
     background-image: url(/img/outgoing.svg);
     background-repeat: no-repeat;
   }
