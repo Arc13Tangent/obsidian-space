@@ -192,16 +192,19 @@ body {
     }
   }
 
-  .external-link {
-    background-position: none;
-    background-repeat: none;
-    background-image: none;
-    background-size: none;
-    padding-right: none;
-    background-position-y: none;
+  a[href^='http'] {
+    padding-right: 1.25em;
   }
-  .external-link::after{
-    all: none;
+  
+  a[href^='http']::after {
+    position: absolute;
+    content: '';
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    margin-left: 0.25em;
+    background-size: 100%;
+    background-image: url(/img/outgoing.svg);
   }
 }
 
