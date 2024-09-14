@@ -195,8 +195,9 @@ body {
   a[href^='http'] {
     padding-right: 1.25em;
   }
-
+  
   a[href^='http']::after {
+    position: absolute;
     content: '';
     display: inline-block;
     width: 1em;
