@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"Append icons to external links 外部連結圖示","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-16T03:21:19.481+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"Append icons to external links 外部連結圖示","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-16T03:26:02.229+08:00"}
 ---
 
 
-Today I’m trying to add a small icon next to external links on a webpage.
 DG originally had this feature, but for some reason, it stopped working. 
 While the icon doesn’t show up at all on desktop, it’s even worse on mobile – it displays a broken image with a frustrating question mark in the center, which is super annoying!
 
