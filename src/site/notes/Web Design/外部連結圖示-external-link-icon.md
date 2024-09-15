@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"Append icons to external links 外部連結圖示","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-16T00:54:31.580+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"Append icons to external links 外部連結圖示","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-16T01:17:12.681+08:00"}
 ---
 
 
@@ -57,5 +57,16 @@ By the way, I really want beautiful code blocks in my garden! Hopefully, one day
 <img width=500 src="https://imgur.com/ZFElAHT.jpeg">
 </center>
 <center>
-The code block style in my local vault, which is created using the Code Styler plugin.
+<font size=2>
+The code block style in my local vault, which is created using the <a href=“[mayurankv/Obsidian-Code-Styler: A plugin for Obsidian.md for styling codeblocks and inline code (github.com)](https://github.com/mayurankv/Obsidian-Code-Styler)”>Code Styler plugin</a>  includes a colorful language icon and a copy code button.
+</font>
 </center>
+
+---
+# References
+
+1. _CSS { In Real Life } | Styling External Links with Attribute Selectors_. (2023, October 11). CSS { In Real Life } | Styling External Links with Attribute Selectors. [https://css-irl.info/styling-external-links-with-attribute-selectors/](https://css-irl.info/styling-external-links-with-attribute-selectors/)
+
+2. Visakan, M. (2024). _mayurankv/Obsidian-Code-Styler_ [JavaScript]. [https://github.com/mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler) (Original work published 2023)
+
+3. _background-position - CSS: Cascading Style Sheets | MDN_. (2024, February 26). [https://developer.mozilla.org/en-US/docs/Web/CSS/background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)
