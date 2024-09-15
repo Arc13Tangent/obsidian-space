@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/Why-I-Created-The-Web-Design-Series/","title":"Why I Created The Web Design Series","noteIcon":"2","created":"2024-09-16T03:19:22.486+08:00","updated":"2024-09-16T03:21:25.822+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/Why-I-Created-The-Web-Design-Series/","title":"Why I Created The Web Design Series","noteIcon":"2","created":"2024-09-16T03:19:22.486+08:00","updated":"2024-09-16T03:25:22.523+08:00"}
 ---
 
 
@@ -18,4 +18,4 @@
 > 
 > 在這個過程中，也要感謝許多網友曾經提出過類似的問題，還有那些花時間回覆解決方案的人。沒有他們的貢獻，許多問題都無法順利解決。我希望這個地方能起到統整的作用，讓之後想要做自己的Digital Garden的人更容易找到相關的資料。
 > 
-> <font color="#7f7f7f">(雖然是這麼說，不過我的意思是我沒辦法手刻網頁。歸功於建北電資的學長姐和損友朋友們，我至少還看得懂HTML等markup languages，所以可以猜出每一個block在做什麼)</font>
+> <font color="#7f7f7f">(雖然是這麼說，不過我的意思是我沒辦法手刻網頁。歸功於建北電資的學長姐和~~損友~~朋友們，我至少還看得懂HTML等markup languages，所以可以猜出每一個block在做什麼)</font>
