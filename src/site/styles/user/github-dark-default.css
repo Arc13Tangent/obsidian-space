@@ -18,22 +18,20 @@ body {
     --code-string: #a5d6ff;
     --code-tag: #7ee787;
     --code-value: #79C0FF;
-
-    .markdown-preview-view .token.hexcode.color {
-        color: #a5d6ff;
-    }
-    
-    .markdown-preview-view .token.selector {
-        color: #7ee787;
-    }
-    
-    .markdown-preview-view .token.class-name {
-        color: #ffa657
-    }
-    
-    .markdown-preview-view .token.console {
-        color: #c9d1d9;
-    }
 }
 
+.markdown-preview-view .token.hexcode.color {
+    color: #a5d6ff;
+}
 
+.markdown-preview-view .token.selector {
+    color: #7ee787;
+}
+
+.markdown-preview-view .token.class-name {
+    color: #ffa657
+}
+
+.markdown-preview-view .token.console {
+    color: #c9d1d9;
+}
