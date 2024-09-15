@@ -14,7 +14,7 @@
 
 下面是參考[CSS In Real Life](https://css-irl.info/styling-external-links-with-attribute-selectors)以及 Digital Garden 插件本身的SCSS 檔內容融合而成的最終設定：
 
-scss
+```scss
 a[href^='http']::after {
 content: '';
 display: inline-block;
@@ -27,6 +27,6 @@ background-image: url(/img/outgoing.svg);
 background-repeat: no-repeat;
 background-position: center bottom 10%;
 }
-
+```
 
 事實上這組code不一定只能使用在其它網頁上，只要將line1中的`http`換成其它的字串，就可以為其它連結也加上圖示。例如我的閱讀筆記中含有Zotero的連結(zotero://)，就可以將line1的`http`換成`zotero`。

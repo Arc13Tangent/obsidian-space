@@ -4,7 +4,7 @@
 
 
 ![float-right|150](http://books.google.com/books/content?id=reROEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-
+```
 # Deep Work深度工作力：淺薄時代，個人成功的關鍵能力【暢銷新裝版】
 [Zotero] (zotero://select/library/items/) [PDF] (zotero://open-pdf/library/items/)
 
@@ -27,8 +27,8 @@
 16.確認淺薄工作的時間比率 
 17.在五點半前結束你的工作 
 18.讓自己難以連絡
-
-
+```
+````
 
 _The above description is collected by the Obsidian Book Search Plugin with Google Books API_
 
