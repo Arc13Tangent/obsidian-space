@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"外部連結圖示 Append icon to external link","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-15T13:50:26.958+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"外部連結圖示 Append icon to external link","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-15T14:22:36.079+08:00"}
 ---
 
 
@@ -30,3 +30,4 @@ background-position: center bottom 10%;
 ```
 
 事實上這組code不一定只能使用在其它網頁上，只要將line1中的`http`換成其它的字串，就可以為其它連結也加上圖示。例如我的閱讀筆記中含有Zotero的連結(zotero://)，就可以將line1的`http`換成`zotero`。
+-
