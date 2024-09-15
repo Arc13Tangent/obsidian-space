@@ -1,20 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"Append icons to external links 外部連結圖示","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-16T02:37:34.246+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"Append icons to external links 外部連結圖示","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-16T03:20:43.888+08:00"}
 ---
 
-
-> [!info]- Why I Created This Series 為什麼會有這個系列
-> After deploying my personal digital garden by the Obsidian Digital Garden plugin, I wanted to put some cool little things on it to make it stand out and feel more "me" instead of just following a template. Along the way, I picked up some CSS and learned a bit about web design and code tracing – it’s been a fun journey!
-> 
-> Since I had zero front-end experience, my initial approach was pretty chaotic. I'd open up other people's GitHub Repos (also using DG), copy-paste their code piece by piece into mine, and see what happens – not the most efficient, but definitely an adventure! So I decided to document how I built some small, fun components here.
-> 
-> <font color="#7f7f7f">(Just to be clear, I can’t hand-code a website from scratch, but thanks to the seniors and friends from CKEFGISC, I can at least understand markup languages like HTML and figure out what each block is supposed to do.)</font>
-> 
-> 自從使用Digital Garden來佈署個人網頁後，為了實作一些小小的酷東西來~~彰顯自己與模板仔的不同~~讓網頁更有自己的個性，不知不覺就學了一點CSS和網頁設計的code tracing，滿妙的XD
-> 
-> 然而由於自己完全沒有前端的知識，一開始想實作某個功能，就打開一樣使用DG佈署網頁的人的GitHub Repo，把每個元件的code一個一個複製到自己的code上面看看會發生什麼事，相當的暴力且耗時。所以想記錄一下一些~~小廢物~~小元件怎麼實作。
-> 
-> <font color="#7f7f7f">(雖然是這麼說，不過我的意思是我沒辦法手刻網頁。歸功於建北電資的學長姐和損友朋友們，我至少還看得懂HTML等markup languages，所以可以猜出每一個block在做什麼)</font>
 
 Today I’m trying to add a small icon next to external links on a webpage.
 DG originally had this feature, but for some reason, it stopped working. 
