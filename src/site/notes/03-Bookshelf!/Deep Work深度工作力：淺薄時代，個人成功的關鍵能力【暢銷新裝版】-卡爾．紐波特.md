@@ -5,10 +5,10 @@
 
 ````col
 ```col-md
-[\s\S]*?![float-right|150](http://books.google.com/books/content?id=reROEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+[![float-right|150](http://books.google.com/books/content?id=reROEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 ```
 ```col-md
-[\s\S]*?# Deep Work深度工作力：淺薄時代，個人成功的關鍵能力【暢銷新裝版】
+[# Deep Work深度工作力：淺薄時代，個人成功的關鍵能力【暢銷新裝版】
 [Zotero] (zotero://select/library/items/) [PDF] (zotero://open-pdf/library/items/)
 
 培養深度工作力，用最少時間創造最高價值的18個策略： 

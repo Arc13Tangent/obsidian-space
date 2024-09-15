@@ -5,10 +5,10 @@
 
 ````col
 ```col-md
-[\s\S]*?![float-right|150](http://books.google.com/books/content?id=KxrgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+[![float-right|150](http://books.google.com/books/content?id=KxrgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 ```
 ```col-md
-[\s\S]*?# 誘因設計
+[# 誘因設計
 [Zotero] (zotero://select/library/items/) [PDF] (zotero://open-pdf/library/items/)
 
 《逆思維》、《恆毅力》、《零阻力改變》等暢銷書作者 強力推薦！ 
@@ -48,10 +48,10 @@
 
 ````col
 ```col-md
-[\s\S]*?![float-right|150](https://images.squarespace-cdn.com/content/v1/5fed55498500a82fe9d2f441/1676889510531-WJX4B9SKJ4WPUZU2QEZK/Uri+Gneezy.png)
+[![float-right|150](https://images.squarespace-cdn.com/content/v1/5fed55498500a82fe9d2f441/1676889510531-WJX4B9SKJ4WPUZU2QEZK/Uri+Gneezy.png)
 ```
 ```col-md
-[\s\S]*?- 加州大學聖地牙哥校區瑞帝管理學院經濟學教授
+[- 加州大學聖地牙哥校區瑞帝管理學院經濟學教授
 - 艾普斯坦／阿特金森行為經濟學名譽講座教授
 
 過去25年來，他的研究重心是透過有效誘因的設計，把行為經濟學付諸真實世界的實踐。他曾與無數企業合作，其中包括迪士尼、汽車評鑑及鑑價網「艾德蒙茲」（Edmunds）和惠普等，幫助他們以打破傳統的方法達成傳統的績效目標。 葛尼奇的誘因研究工作，得到國家與國際組織的財務資助，例如國家科學基金會、美國衛生研究院、以薩克・拉賓以色列研究中心、以色列科學部與青年科學家計畫等。著有《一切都是誘因的問題》。
