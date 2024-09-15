@@ -5,9 +5,13 @@
 
 ````col
 ```col-md
+flexGrow=1
+===
 ![float-right|150](http://books.google.com/books/content?id=KxrgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 ```
 ```col-md
+flexGrow=2.5
+===
 # 誘因設計
 [Zotero] (zotero://select/library/items/) [PDF] (zotero://open-pdf/library/items/)
 
@@ -48,9 +52,13 @@
 
 ````col
 ```col-md
+flexGrow=1
+===
 ![float-right|150](https://images.squarespace-cdn.com/content/v1/5fed55498500a82fe9d2f441/1676889510531-WJX4B9SKJ4WPUZU2QEZK/Uri+Gneezy.png)
 ```
 ```col-md
+flexGrow=2.5
+===
 - 加州大學聖地牙哥校區瑞帝管理學院經濟學教授
 - 艾普斯坦／阿特金森行為經濟學名譽講座教授
 
