@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"外部連結圖示 Append icon to external link","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-15T12:53:09.153+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"外部連結圖示 Append icon to external link","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-15T13:20:06.450+08:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 下面是參考[CSS In Real Life](https://css-irl.info/styling-external-links-with-attribute-selectors)以及 Digital Garden 插件本身的SCSS 檔內容融合而成的最終設定：
 
-scss
+SCSS
 a[href^='http']::after {
 content: '';
 display: inline-block;
