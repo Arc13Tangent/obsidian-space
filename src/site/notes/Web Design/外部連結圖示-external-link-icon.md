@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"Append icons to external links 外部連結圖示","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-16T00:51:58.066+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"Append icons to external links 外部連結圖示","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-16T00:54:31.580+08:00"}
 ---
 
 
@@ -16,11 +16,15 @@
 > 
 > <font color="#7f7f7f">(雖然是這麼說，不過我的意思是我沒辦法手刻網頁。歸功於建北電資的學長姐和損友朋友們，我至少還看得懂HTML等markup languages，所以可以猜出每一個block在做什麼)</font>
 
-Today I’m trying to add a small icon next to external links on a webpage. DG originally had this feature, but for some reason, it stopped working. While the icon doesn’t show up at all on desktop, it’s even worse on mobile – it displays a broken image with a frustrating question mark in the center, which is super annoying!
+Today I’m trying to add a small icon next to external links on a webpage.
+DG originally had this feature, but for some reason, it stopped working. 
+While the icon doesn’t show up at all on desktop, it’s even worse on mobile – it displays a broken image with a frustrating question mark in the center, which is super annoying!
 
 The following code snippet is a combination of the example from [CSS In Real Life](https://css-irl.info/styling-external-links-with-attribute-selectors) and the SCSS file from the Digital Garden plugin.
 
-這一次記錄的是如何在網頁中的外部連結後面加上一個小圖示。其實DG本來就有這個設定，但不知道為什麼壞掉了。電腦版上沒有顯示圖示就算了，用手機打開就直接顯示一個broken image在那邊，看得很阿雜。
+這一次記錄的是如何在網頁中的外部連結後面加上一個小圖示。
+其實DG本來就有這個設定，但不知道為什麼壞掉了。
+電腦版上沒有顯示圖示就算了，用手機打開就直接顯示一個broken image在那邊，看得很阿雜。
 
 下面是參考[CSS In Real Life](https://css-irl.info/styling-external-links-with-attribute-selectors)以及 Digital Garden 插件本身的SCSS 檔內容融合而成的最終設定：
 
@@ -39,15 +43,19 @@ background-position: center bottom 10%;
 }
 ```
 
-In fact, with a slight modification, the above snippet can be used for other types of links, not just `http`. For example, in my literature notes, I have Zotero links (zotero://). By replacing `http` with `zotero` in line 1, an icon will also appear after Zotero links.
+In fact, with a slight modification, the above snippet can be used for other types of links, not just `http`. 
+For example, in my literature notes, I have Zotero links (zotero://). By replacing `http` with `zotero` in line 1, an icon will also appear after Zotero links.
 
-事實上這組code不一定只能使用在其它網頁上，只要將line1中的`http`換成其它的字串，就可以為其它連結也加上圖示。例如我的閱讀筆記中含有Zotero的連結(zotero://)，就可以將line1的`http`換成`zotero`。
+事實上這組code不一定只能使用在其它網頁上，只要將line1中的`http`換成其它的字串，就可以為其它連結也加上圖示。
+例如我的閱讀筆記中含有Zotero的連結(zotero://)，就可以將line1的`http`換成`zotero`。
 
 ---
 
-By the way, I really want beautiful code blocks in my garden. Hopefully, one day I'll find a way to publish the code block styles from my local vault.
+By the way, I really want beautiful code blocks in my garden! Hopefully, one day I'll find a way to publish the code block styles from my local vault.
 
 <center>
 <img width=500 src="https://imgur.com/ZFElAHT.jpeg">
 </center>
-<center>The code block style in my local vault, which is created by Code Styler plugin.</center>
+<center>
+The code block style in my local vault, which is created using the Code Styler plugin.
+</center>
