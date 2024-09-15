@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_HW1/","title":"HW1","tags":["DDE"],"noteIcon":"1","created":"2024-09-02T07:54:52.000+08:00","updated":"2024-09-13T04:40:35.586+08:00"}
+{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_HW1/","title":"HW1","tags":["DDE"],"noteIcon":"1","created":"2024-09-02T07:54:52.000+08:00","updated":"2024-09-15T14:47:32.003+08:00"}
 ---
 
 # HW1
