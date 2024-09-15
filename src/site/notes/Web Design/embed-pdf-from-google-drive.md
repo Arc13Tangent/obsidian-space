@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/embed-pdf-from-google-drive/","title":"Embed PDFs from Google Drive","noteIcon":"1","created":"2024-09-16T02:15:54.860+08:00","updated":"2024-09-16T03:22:54.123+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/embed-pdf-from-google-drive/","title":"Embed PDFs from Google Drive","noteIcon":"1","created":"2024-09-16T02:15:54.860+08:00","updated":"2024-09-16T03:57:23.824+08:00"}
 ---
 
 
@@ -21,7 +21,7 @@ width="640" height="480" allow="autoplay" aspect-ratio="4 / 4">
 
 The result:
 <iframe src="https://drive.google.com/file/d/1PacJp3YdhrNR9wzc5ylpH6nkcmLvHjVM/preview" 
-width="640" height="480" allow="autoplay" aspect-ratio="4 / 4">
+width="640" height="480" allow="autoplay" aspect-ratio="4 / 4" overflow="hidden" position="absolute" scrolling="no">
 </iframe>
 
 ---
