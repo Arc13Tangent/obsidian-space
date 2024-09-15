@@ -18,7 +18,34 @@ body {
 	--code-string: #a9dc76;
 	--code-tag: #f7768e;
 	--code-value: #ff9e64;
+
+	--border-radius: 10px;
 }
+
+@font-face {
+	font-family: code-styler-nerdfont;
+	src: url(https://raw.githubusercontent.com/romkatv/powerlevel10k-media/master/MesloLGS%20NF%20Regular.ttf) format("truetype");
+}
+
+.code-styler-pre-parent {
+	margin-bottom: 16px;
+}
+
+.markdown-source-view.mod-cm6 .code-styler-pre-parent {
+	margin-bottom: 0px;
+}
+
+.code-styler pre.code-styler-pre {
+	overflow: hidden !important;
+	min-height: unset;
+	padding: 0px !important;
+	border-radius: var(--border-radius) !important;
+	background: var(--code-styler-codeblock-background-colour) !important;
+}
+
+
+
+
 
 .markdown-preview-view .token.class-name,
 .markdown-preview-view .token.function {
