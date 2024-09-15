@@ -3,7 +3,7 @@
 ---
 
 
-
+[\s\S]*?
 
 _The above description is collected by the Obsidian Book Search Plugin with Google Books API_
 
