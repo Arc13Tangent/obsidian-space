@@ -5,13 +5,9 @@
 
 ````col
 ```col-md
-flexGrow=1
-===
 ![float-right|150](http://books.google.com/books/content?id=reROEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 ```
 ```col-md
-flexGrow=2.5
-===
 # Deep Work深度工作力：淺薄時代，個人成功的關鍵能力【暢銷新裝版】
 [Zotero] (zotero://select/library/items/) [PDF] (zotero://open-pdf/library/items/)
 
