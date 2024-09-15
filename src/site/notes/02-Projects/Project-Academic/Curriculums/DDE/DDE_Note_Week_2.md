@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_Note_Week_2/","title":"DDE Note Week 2","tags":["DDE"],"noteIcon":"1","created":"2024-09-13T04:42:10.000+08:00","updated":"2024-09-16T01:51:50.458+08:00"}
+{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_Note_Week_2/","title":"DDE Note Week 2","tags":["DDE"],"noteIcon":"1","created":"2024-09-13T04:42:10.000+08:00","updated":"2024-09-16T01:58:44.219+08:00"}
 ---
 
 # 第二週：DDE的性質──維度、跟ODE和PDE的比較與關係、FDE form
@@ -35,7 +35,7 @@
 ---
 # 當天的筆記
 
-<iframe src=" https://drive.google.com/file/d/1PacJp3YdhrNR9wzc5ylpH6nkcmLvHjVM/view?usp=sharing " allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 4 / 4;"></iframe>
+<iframe src=" https://drive.google.com/file/d/1PacJp3YdhrNR9wzc5ylpH6nkcmLvHjVM/view?usp=sharing " allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>
 
 [[IMG-20240913045502596.pdf]]
 
