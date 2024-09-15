@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"外部連結圖示 Append icon to external link","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-15T13:37:29.914+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/外部連結圖示-external-link-icon/","title":"外部連結圖示 Append icon to external link","noteIcon":"1","created":"2024-09-14T18:39:24.263+08:00","updated":"2024-09-15T13:50:26.958+08:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 > 
 > 然而由於自己完全沒有前端的知識，一開始想實作某個功能，就打開一樣使用DG佈署網頁的人的GitHub Repo，把每個元件的code一個一個複製到自己的code上面看看會發生什麼事，相當的暴力且耗時。所以想記錄一下一些~~小廢物~~小元件怎麼實作。
 > 
-> <font color="#bfbfbf">(雖然是這麼說，不過我的意思是我沒辦法手刻網頁。歸功於建北電資的學長姐，我至少還看得懂HTML等markup languages，所以可以猜出每一個block在做什麼)</font>
+> (雖然是這麼說，不過我的意思是我沒辦法手刻網頁。歸功於建北電資的學長姐，我至少還看得懂HTML等markup languages，所以可以猜出每一個block在做什麼)
 
 這一次記錄的是如何在網頁中的外部連結後面加上一個小圖示。其實DG本來就有這個設定，但不知道為什麼壞掉了。電腦版上沒有顯示圖示就算了，用手機打開就直接顯示一個broken image在那邊，看得很阿雜。
 
