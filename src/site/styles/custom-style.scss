@@ -50,7 +50,19 @@ body {
 
     h1 {
       font-size: 32px !important;
+      background: -webkit-linear-gradient(90deg,rgb(188, 12, 241), rgb(212, 4, 4));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      position: relative;
     }
+    .h1::after {
+      content: '🌌'; /* 這裡放你的 emoji */
+      position: absolute;
+      right: 0;
+      background: none;
+      color: inherit;
+  }
+    
   }
 
   .sidebar {
