@@ -297,3 +297,6 @@ body.theme-dark .sidebar::before {
   border-radius: 10px;
 }
 
+.fullpage-overlay {
+  position: fixed; /* 改為 fixed 以覆蓋整個視窗 */
+}
