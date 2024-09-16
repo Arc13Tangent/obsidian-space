@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/local-deployment/","title":"Local deployment of digital garden","noteIcon":"1","created":"2024-09-17T01:14:59.200+08:00","updated":"2024-09-17T01:53:19.177+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/local-deployment/","title":"Local deployment of digital garden","noteIcon":"1","created":"2024-09-17T01:14:59.200+08:00","updated":"2024-09-17T01:54:37.762+08:00"}
 ---
 
 
 The [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden) is fantastic. It's free and open source, and the service it depends on, Vercel, has a free version.
 However, the free version of Vercel has a limit on the number of deployments, which is 100 per day. We may run out of the quota if we want to tune some details.
 Thankfully, the plugin's author provided a local deployment method that works well.
-I just put some further details in here for documentation.
+I just put some details in here for documentation.
 Full discussion: [Local deployment · oleeskild/obsidian-digital-garden · Discussion (github.com)](https://github.com/oleeskild/obsidian-digital-garden/discussions/160)
 
 1. Clone the digital garden repo (we might have done this before if we've already modified the `custom-style.scss` or other files to customize our garden)
