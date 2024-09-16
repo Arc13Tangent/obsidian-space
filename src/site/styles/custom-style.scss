@@ -1,5 +1,5 @@
 body.theme-dark {
-  background: linear-gradient(153deg, rgba(7,20,92,1) 0%, rgba(10,63,140,1) 51%, rgba(33,24,163,1) 100%);
+  background: linear-gradient(153deg, rgba(7, 20, 92, 1) 0%, rgba(10, 63, 140, 1) 51%, rgba(33, 24, 163, 1) 100%);
 }
 
 body {
@@ -18,7 +18,7 @@ body {
     left: 15px;
     position: fixed;
     height: calc(100% - 30px);
-    width: 280px;
+    width: 265px;
     display: flex;
     flex-direction: column;
     border-radius: 10px;
@@ -77,6 +77,20 @@ body {
     }
 
   }
+
+  .notelink {
+    padding: 5px 25 5px 25px;
+    display: flex;
+    align-items: center;
+    a {
+        &:hover {
+            text-decoration: underline !important;
+        }
+    }
+    svg {
+        flex-shrink: 0;
+    }
+}
 
   .sidebar {
     padding-top: 15px;
@@ -146,6 +160,7 @@ body {
         -webkit-text-fill-color: transparent;
         position: relative;
       }
+
       h1::after {
         content: '';
         display: inline-block;
@@ -161,6 +176,7 @@ body {
       }
     }
   }
+
   /*
   #floating-control {
     position: fixed;
@@ -299,5 +315,6 @@ body.theme-dark .sidebar::before {
 }
 
 .fullpage-overlay {
-  position: fixed; /* 改為 fixed 以覆蓋整個視窗 */
+  position: fixed;
+  /* 改為 fixed 以覆蓋整個視窗 */
 }
