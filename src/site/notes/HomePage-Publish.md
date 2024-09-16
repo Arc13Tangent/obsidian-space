@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"2","created":"2024-09-04T17:53:28.773+08:00","updated":"2024-09-12T01:13:58.853+08:00"}
+{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"2","created":"2024-09-04T17:53:28.773+08:00","updated":"2024-09-17T00:23:14.709+08:00"}
 ---
 
 This is the home page of arcTangent's OuOb space!
@@ -20,8 +20,6 @@ Just put something that might be useful here...
 > 感謝您共同維護這個友善的互動空間。
 
 GIF image credits:
-1. [Night Moon Clouds Pixel - Free GIF on Pixabay - Pixabay](https://pixabay.com/gifs/night-moon-clouds-pixel-art-pixel-12128/)
-   Thank you, [Avedeto](https://pixabay.com/users/avedeto-12355281/)!
-2. [Angry Lol Cute - Free GIF on Pixabay - Pixabay](https://pixabay.com/gifs/angry-lol-cute-working-coffee-2498/)
-   Thank you, [u_mey4kjj5ww](https://pixabay.com/users/u_mey4kjj5ww-31374144/)!
+[Night Moon Clouds Pixel - Free GIF on Pixabay - Pixabay](https://pixabay.com/gifs/night-moon-clouds-pixel-art-pixel-12128/)
+Thank you, [Avedeto](https://pixabay.com/users/avedeto-12355281/)!
    
