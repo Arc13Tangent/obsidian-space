@@ -50,19 +50,28 @@ body {
 
     h1 {
       font-size: 32px !important;
-      background: -webkit-linear-gradient(90deg,rgb(188, 12, 241), rgb(212, 4, 4));
+      background: linear-gradient(to right, #f32170, #084eff, #cf23cf, #44daee);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       position: relative;
     }
-    .h1::after {
-      content: '🌌'; /* 這裡放你的 emoji */
-      position: absolute;
-      right: 0;
-      background: none;
-      color: inherit;
-  }
-    
+
+    h1::after {
+      content: '';
+      display: inline-block;
+      width: 1em;
+      /* 高度設為文字大小 */
+      height: 1em;
+      /* 寬度設為文字大小 */
+      background-image: url(/img/milkyWay.png);
+      background-size: contain;
+      /* 確保圖片根據容器大小縮放 */
+      background-repeat: no-repeat;
+      /* 圖片不重複 */
+      vertical-align: middle;
+      /* 使圖片對齊文字中線 */
+    }
+
   }
 
   .sidebar {
