@@ -1,3 +1,7 @@
+body.theme-dark {
+  background: linear-gradient(153deg, rgba(7,20,92,1) 0%, rgba(10,63,140,1) 51%, rgba(33,24,163,1) 100%);
+}
+
 body {
   overflow-x: hidden;
   --note-icon-1: url(/img/star.svg);
@@ -9,6 +13,7 @@ body {
 
   /* https://github.com/uroybd/topobon/blob/main/src/site/styles/custom-style.scss */
   nav.filetree-sidebar {
+    background-color: #000000a7;
     top: 15px;
     left: 15px;
     position: fixed;
@@ -50,7 +55,7 @@ body {
 
     h1 {
       font-size: 32px !important;
-      background: linear-gradient(to right, #f32170, #084eff, #cf23cf, #44daee);
+      background: linear-gradient(to right, #f32170, #5682f1, #cf23cf, #5473f2);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       position: relative;
@@ -62,14 +67,12 @@ body {
       width: 1em;
       /* 高度設為文字大小 */
       height: 1em;
-      /* 寬度設為文字大小 */
       background-image: url(/img/milkyWay.png);
       background-size: contain;
       /* 確保圖片根據容器大小縮放 */
       background-repeat: no-repeat;
-      /* 圖片不重複 */
       vertical-align: middle;
-      /* 使圖片對齊文字中線 */
+      margin-bottom: 0.2em;
     }
 
   }
@@ -84,8 +87,12 @@ body {
     justify-content: center;
   }
 
+  .graph .graph-title {
+    background-color: #000000a7;
+  }
+
   #link-graph {
-    background-color: var(--background-secondary);
+    background-color: #000000a7;
     margin-bottom: 0px;
     border-radius: 10px 0 10px 10px;
     width: fit-content;
@@ -94,7 +101,7 @@ body {
   .backlinks {
     flex: 1;
     margin-top: 10px;
-    background-color: var(--background-primary);
+    background-color: #000000a7;
     border-radius: 10px;
     padding: 10px;
     padding-top: 5px;
@@ -106,7 +113,7 @@ body {
     }
   }
 
-  @media (max-width: 1400px) {
+  @media (max-width: 1200px) {
     #link-graph {
       border-radius: 0 10px 10px 10px;
     }
@@ -130,8 +137,30 @@ body {
     .toc {
       display: none;
     }
-  }
 
+    .navbar {
+      h1 {
+        background: linear-gradient(to right, #f32170, #5682f1, #cf23cf, #5473f2);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        position: relative;
+      }
+      h1::after {
+        content: '';
+        display: inline-block;
+        width: 1em;
+        /* 高度設為文字大小 */
+        height: 1em;
+        background-image: url(/img/milkyWay.png);
+        background-size: contain;
+        /* 確保圖片根據容器大小縮放 */
+        background-repeat: no-repeat;
+        vertical-align: middle;
+        margin-bottom: 0.2em;
+      }
+    }
+  }
+  /*
   #floating-control {
     position: fixed;
     color: var(--link-color);
@@ -183,7 +212,7 @@ body {
       }
     }
   }
-
+  */
   .callout[data-callout="complcy"] {
     --callout-color: 144, 240, 66;
     --callout-icon: lucide-messages-square;
@@ -265,4 +294,6 @@ body.theme-dark .sidebar::before {
   background-repeat: no-repeat;
   background-position: center;
   background-image: url(/img/banner.gif);
+  border-radius: 10px;
 }
+
