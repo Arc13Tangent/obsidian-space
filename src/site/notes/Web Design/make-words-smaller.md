@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/make-words-smaller/","title":"Make words smaller in Obsidian","noteIcon":"1","created":"2024-09-16T00:58:03.440+08:00","updated":"2024-09-16T03:33:04.196+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/make-words-smaller/","title":"Make words smaller in Obsidian","noteIcon":"1","created":"2024-09-16T00:58:03.000+08:00","updated":"2024-09-16T10:14:21.000+08:00"}
 ---
 
 
