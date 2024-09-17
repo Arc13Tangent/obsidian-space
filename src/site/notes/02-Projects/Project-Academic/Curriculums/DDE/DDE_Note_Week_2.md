@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_Note_Week_2/","title":"DDE Note Week 2","tags":["DDE"],"noteIcon":"1","created":"2024-09-13T04:42:10.000+08:00","updated":"2024-09-17T22:36:07.393+08:00"}
+{"dg-publish":true,"permalink":"/02-Projects/Project-Academic/Curriculums/DDE/DDE_Note_Week_2/","title":"DDE Note Week 2","tags":["DDE"],"noteIcon":"1","created":"2024-09-13T04:42:10.000+08:00","updated":"2024-09-17T22:41:58.369+08:00"}
 ---
 
 # 第二週：DDE的性質──維度、跟ODE和PDE的比較與關係、FDE form
@@ -133,6 +133,9 @@ $
 
 ## FDE form 和 ODE form 的優勢
 
+
+
+([[Journal/Daily/Diary-2024-09-12-Thu\|2024-09-12]]), ([[Journal/Daily/Diary-2024-09-17-Tue\|2024-09-17]])
 
 ---
 # 當天的筆記
