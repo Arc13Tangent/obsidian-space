@@ -67,31 +67,72 @@ body {
       content: '';
       display: inline-block;
       width: 1em;
-      /* 高度設為文字大小 */
       height: 1em;
       background-image: url(/img/milkyWay.png);
       background-size: contain;
-      /* 確保圖片根據容器大小縮放 */
       background-repeat: no-repeat;
       vertical-align: middle;
       margin-bottom: 0.2em;
+
+      /* 預設無動畫 */
+      animation: none;
     }
 
+    h1:hover::after {
+      /* 滑鼠移上去，啟動動畫，並無限循環 */
+      animation: wave 0.7s ease-in-out infinite;
+    }
+
+    h1::after {
+      /* 滑鼠離開後，完成當前的動畫周期 */
+      animation-fill-mode: forwards;
+    }
+
+    @keyframes wave {
+      0% {
+        transform: rotate(0deg);
+      }
+
+      25% {
+        transform: rotate(15deg);
+      }
+
+      50% {
+        transform: rotate(0deg);
+      }
+
+      75% {
+        transform: rotate(-15deg);
+      }
+
+      100% {
+        transform: rotate(0deg);
+      }
+    }
+
+  }
+
+  .cm-s-obsidian>header>h1 {
+    background: linear-gradient(to right, rgba(217, 184, 15, 1), rgba(60, 138, 213, 1), rgba(207, 71, 117, 1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 
   .notelink {
     padding: 5px 25 5px 25px;
     display: flex;
     align-items: center;
+
     a {
-        &:hover {
-            text-decoration: underline !important;
-        }
+      &:hover {
+        text-decoration: underline !important;
+      }
     }
+
     svg {
-        flex-shrink: 0;
+      flex-shrink: 0;
     }
-}
+  }
 
   .sidebar {
     padding-top: 15px;
@@ -174,6 +215,53 @@ body {
         background-repeat: no-repeat;
         vertical-align: middle;
         margin-bottom: 0.2em;
+      }
+
+      h1::after {
+        content: '';
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        background-image: url(/img/milkyWay.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        vertical-align: middle;
+        margin-bottom: 0.2em;
+
+        /* 預設無動畫 */
+        animation: none;
+      }
+
+      h1:hover::after {
+        /* 滑鼠移上去，啟動動畫，並無限循環 */
+        animation: wave 0.7s ease-in-out infinite;
+      }
+
+      h1::after {
+        /* 滑鼠離開後，完成當前的動畫周期 */
+        animation-fill-mode: forwards;
+      }
+
+      @keyframes wave {
+        0% {
+          transform: rotate(0deg);
+        }
+
+        25% {
+          transform: rotate(15deg);
+        }
+
+        50% {
+          transform: rotate(0deg);
+        }
+
+        75% {
+          transform: rotate(-15deg);
+        }
+
+        100% {
+          transform: rotate(0deg);
+        }
       }
     }
   }
@@ -318,4 +406,8 @@ body.theme-dark .sidebar::before {
 .fullpage-overlay {
   position: fixed;
   /* 改為 fixed 以覆蓋整個視窗 */
+}
+
+.content {
+  margin-top: 75px;
 }
