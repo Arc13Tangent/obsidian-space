@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/Center-the-image-圖片置中/","title":"Center images (in Obsidian)","tags":["Obsidian"],"noteIcon":"1","created":"2024-09-16T00:51:10.000+08:00","updated":"2024-09-17T22:46:11.551+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/Center-the-image-圖片置中/","title":"Center images (in Obsidian)","tags":["Obsidian"],"noteIcon":"1","created":"2024-09-16T00:51:10.000+08:00","updated":"2024-09-17T22:52:46.000+08:00"}
 ---
 
 
