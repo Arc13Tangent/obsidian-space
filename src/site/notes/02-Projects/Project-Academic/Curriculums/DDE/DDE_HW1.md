@@ -15,7 +15,7 @@
 > the method of steps
 > 
 > ---
-> 答([[Journal/Daily/Diary-2024-09-05-Thu\|2024-09-05]])：[[04-Solidified Extraction/Method_of_Steps\|Method of steps]]
+> 答([[Journal/Daily/Diary-2024-09-05-Thu\|2024-09-05]])：[[04-Solidified Extraction/Math/Method_of_Steps\|Method of steps]]
 > 
 >
 { #ZFVCUWMVaMQY9W2SXp1}
@@ -26,7 +26,7 @@
 > prehistory
 > 
 > ---
-> 答([[Journal/Daily/Diary-2024-09-05-Thu\|2024-09-05]])：[[04-Solidified Extraction/前歷史_Prehistory\|前歷史 Prehistory in DDE]]
+> 答([[Journal/Daily/Diary-2024-09-05-Thu\|2024-09-05]])：[[04-Solidified Extraction/Math/前歷史_Prehistory\|前歷史 Prehistory in DDE]]
 >
 { #Z4AW7B8YaMQY9W2SXp1}
 
