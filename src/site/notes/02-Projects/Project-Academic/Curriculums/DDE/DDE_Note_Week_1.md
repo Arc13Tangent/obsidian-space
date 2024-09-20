@@ -30,7 +30,7 @@ $k$前面的負號是負回饋的意思ie 水溫比預期大應該是往下調
 ## DDE的特殊性質
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/04-solidified-extraction/prehistory/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -46,11 +46,13 @@ $k$前面的負號是負回饋的意思ie 水溫比預期大應該是往下調
 
 前歷史簡單起見目前先假設連續
 
+(c.f. NTHU MATH 526500 DDE Note week 1)
+
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/04-solidified-extraction/method-of-steps/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -64,11 +66,13 @@ $k$前面的負號是負回饋的意思ie 水溫比預期大應該是往下調
 拿第1步再代回去解出第2步在$[\tau, 2\tau]$上
 以此類推
 
+(c.f. NTHU MATH 526500 DDE Note week 1)
+
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/04-solidified-extraction/stepwise-regularity/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -80,6 +84,8 @@ $k$前面的負號是負回饋的意思ie 水溫比預期大應該是往下調
 
 在discrete delay DDE中，用[[04-Solidified Extraction/Method_of_Steps\|Method of steps]]解出來的解，會因為當下這一段是用前一段積出來的，會比前一段多一層可微性
 然後在時間段的端點處微分也得拆成左微和右微
+
+(c.f. NTHU MATH 526500 DDE Note week 1)
 
 </div></div>
 
