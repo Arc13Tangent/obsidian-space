@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"2","created":"2024-09-04T17:53:28.773+08:00","updated":"2024-09-21T07:31:04.610+08:00"}
+{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"2","created":"2024-09-04T17:53:28.773+08:00","updated":"2024-09-21T07:34:21.854+08:00"}
 ---
 
 <center>🌙 This is the home page of arcTangent's OuOb space! 🔮</center>
 
 #### Why I created this space:
 
-On August 24, 2024, I encountered Obsidian. I'm amazed by its power, simplicity, flexibility, and, most importantly, the warmth of the Obsidian community. As I explored the application and its forums, I found myself gradually moved by this incredible group of people.
+On August 24, 2024, I encountered [Obsidian](https://obsidian.md/). I'm amazed by its power, simplicity, flexibility, and, most importantly, the warmth of the Obsidian community. As I explored the application and its forums, I found myself gradually moved by this incredible group of people.
 
 In the past, I believed that hard-earned knowledge or skills should be quietly stored away in a corner that belongs only to me. However, this encounter with Obsidian changed my perspective: it’s through selfless sharing that we become truly strong.
 
 Since then, I’ve been looking for ways to publish my notes online. Although what I document may not be groundbreaking knowledge, I still hope that, like many in the forums, I can help others. Even if just one person finds my notes useful, I’ll feel that I’ve made a small contribution not only to this community but to the world at large.
 
-I want to give special thanks to the creator of the Obsidian Digital Garden plugin. They’ve built a powerful and customizable tool, allowing me to publish my notes in the way I believe to be most helpful. Once again, I've been lifted up by the kindness of this wonderful community!
+I want to give special thanks to the creator of the [Obsidian Digital Garden plugin](https://dg-docs.ole.dev/). They’ve built a powerful and customizable tool, allowing me to publish my notes in the way I believe to be most helpful. Once again, I've been lifted up by the kindness of this wonderful community!
 
 This journey is truly fascinating, and it’s only just beginning!
 
