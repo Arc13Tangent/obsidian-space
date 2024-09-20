@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"2","created":"2024-09-04T17:53:28.773+08:00","updated":"2024-09-21T07:26:02.941+08:00"}
+{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"2","created":"2024-09-04T17:53:28.773+08:00","updated":"2024-09-21T07:31:04.610+08:00"}
 ---
 
-<center>This is the home page of arcTangent's OuOb space!</center>
+<center>🌙 This is the home page of arcTangent's OuOb space! 🔮</center>
 
 #### Why I created this space:
 
@@ -26,10 +26,12 @@ This journey is truly fascinating, and it’s only just beginning!
 
 這趟奇妙的旅程才剛開始，未來值得期待！
 
+---
 #### Who am I?
-![witch-hat (1).png|50](/img/user/witch-hat%20(1).png)
+![IMG-20240921072656770.png|50](/img/user/Attachments/HomePage-Publish/IMG-20240921072656770.png)
 A quiet observer of the myth and beauty hidden within mathematics.
 
+---
 #### Some remarks
 
 > [!info]- The pronounces in the notes in this space
@@ -42,6 +44,7 @@ A quiet observer of the myth and beauty hidden within mathematics.
 > Thank you for keeping this a positive space for everyone.
 > 感謝您共同維護這個友善的互動空間。
 
+---
 
 GIF image credits:
 [Night Moon Clouds Pixel - Free GIF on Pixabay - Pixabay](https://pixabay.com/gifs/night-moon-clouds-pixel-art-pixel-12128/)
