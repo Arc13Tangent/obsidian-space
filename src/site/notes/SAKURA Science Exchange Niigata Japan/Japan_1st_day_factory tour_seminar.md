@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/Japan_1st_day_factory tour_seminar/","title":"1st Day - Factory Tour and Seminar ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-09-24T08:24:56.000+08:00","updated":"2024-10-02T17:01:50.338+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/Japan_1st_day_factory tour_seminar/","title":"1st Day - Factory Tour and Seminar ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-09-24T08:24:56.000+08:00","updated":"2024-10-02T17:07:03.201+08:00"}
 ---
 
+# Factory Tour
 
 > [!info] The Company Visited:
 > **Nippon Seiki**
@@ -29,17 +30,16 @@
 		- 兩個用於移動零件
 		- (ie分工很細)
 	- 在黑色簾子中確認做出來的儀表板狀況 模擬人真的在車子裡面的樣子
-
 - 儀表板
 	- 一開始生產的儀表板上只有速度 後來加上轉速等一堆有的沒有變成現在這樣 
 	- 之後加上LED看起來更厲害
-
 - 安全確認鏡子
 	- 一個凸面鏡
 	- 工廠就算是走出廁所都有安全確認鏡子
 	- 讓人一眼就看出左右邊轉角處有沒有人
-
 - 樓梯上面有幾階上有貼「你已經消耗了1.2 kcal了」、「2 kcal」、「多走路對脊錐比較好」(應該是這樣吧)的字樣，很有趣
+
+# Beautiful Japanese Restruant
 
 - Tanaka教授帶大家去吃日式風情滿滿的高級餐廳
   很漂亮，也學了一些吃飯前和吃飯後日本人會說的話
