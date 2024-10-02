@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS/","title":"3rd Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:47:04.434+08:00","updated":"2024-10-02T19:30:25.977+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS/","title":"3rd Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:47:04.434+08:00","updated":"2024-10-02T19:38:02.990+08:00"}
 ---
 
 
@@ -8,6 +8,7 @@
 > [ICNS 2024 | The 5th International Congress on Natural Sciences with Sisterhood Universities (niigata-u.ac.jp)](https://www.sc.niigata-u.ac.jp/ICNS2024/index.html)
 
 第一次參加國際學術會議，在體力許可下盡量聽好聽滿
+![Imgur](https://imgur.com/yd3TpSv.png)
 ![Imgur](https://imgur.com/5a3nBVJ.jpeg)
 
 ![Imgur](https://imgur.com/AVwcX2z.jpeg)
