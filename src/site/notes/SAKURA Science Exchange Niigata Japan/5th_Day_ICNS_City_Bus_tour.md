@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T19:44:14.980+08:00","updated":"2024-10-02T20:06:17.051+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T19:44:14.980+08:00","updated":"2024-10-02T20:08:46.269+08:00"}
 ---
 
 
@@ -43,7 +43,8 @@
 </font></center>
 
 後來進這邊的紀念品店時，時間所剩不多了，Tanaka教授請我們盡快回巴士上
-我說我想帶一瓶新瀉的米酒給系主任，眼看桌上有兩種，請問比較推薦哪一個作為紀念品？
+我說我想帶一瓶新瀉的米酒給當初推薦我參加這次計畫的系主任。
+眼看桌上有兩種，請問比較推薦哪一個作為紀念品？
 他想了一下說，其實這兩個幾乎一樣，然後又想了一下，和我說他推薦紅色包裝的那個
 後來我真的沒在任何其它商店看到同樣的酒了，問對人了！
 
