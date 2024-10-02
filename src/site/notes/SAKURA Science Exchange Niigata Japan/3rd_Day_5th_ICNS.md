@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS/","title":"3rd Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:47:04.434+08:00","updated":"2024-10-02T18:34:16.883+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS/","title":"3rd Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:47:04.434+08:00","updated":"2024-10-02T19:29:32.194+08:00"}
 ---
 
 
@@ -56,7 +56,10 @@
     - minimize $||\mathbf{H}\eta-T||_2^2 +\lambda||\eta||_1$
     - find $\eta$ by fixed pt. methods and (convex) opt. methods
 - Fixed point method for ML
-    - find fixed pt. :$$x^*=\text{prox}_{\alpha g}(I-\alpha\nabla f)(x^*),$$ where $\alpha > 0$
+    - find fixed pt. :
+      $$
+      x^*=\text{prox}_{\alpha g}(I-\alpha\nabla f)(x^*),
+      $$where $\alpha > 0$
     - subdiff. 
     - forward-backward algo. (interations)
 - Opt. method for ML
