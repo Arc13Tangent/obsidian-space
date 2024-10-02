@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/Japan_1st_day_factory tour_seminar/","title":"1st Day - Factory Tour and Seminar ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-09-24T08:24:56.000+08:00","updated":"2024-10-02T20:37:55.313+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/Japan_1st_day_factory tour_seminar/","title":"1st Day - Factory Tour and Seminar ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-09-24T08:24:56.000+08:00","updated":"2024-10-02T22:09:13.578+08:00"}
 ---
 
 
@@ -51,5 +51,12 @@
 ![Imgur](https://imgur.com/lRf3cdm.jpeg)
 ![Imgur](https://imgur.com/x8F6p0F.jpeg)
 ![Imgur](https://imgur.com/TAjtelr.jpeg)
+
+# Dinner - Ramen!
+
+個人覺得很濃很好吃，麵很Q！但也有同學覺得太鹹覺得不好吃
+![Imgur](https://imgur.com/JKrRMcz.jpeg)
+![Imgur](https://imgur.com/tFeJw05.jpeg)
+![Imgur](https://imgur.com/jR1c9oF.jpeg)
 
 << [[SAKURA Science Exchange Niigata Japan/0th_Day\|Last Day]] | [[SAKURA Science Exchange Niigata Japan/(Published)_Japan_2nd_day_course 1\|Next Day]] >>
