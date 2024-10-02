@@ -1,0 +1,42 @@
+---
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/(Published)_Japan_2nd_day_course 1/","title":"2nd Day - Courses ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:19:06.798+08:00","updated":"2024-10-02T17:40:19.289+08:00"}
+---
+
+
+# Graph Theory
+
+Instructor: Professor Suzuki (鈴木教授)
+
+![Imgur](https://imgur.com/veurRsb.jpeg)
+
+- vertices 
+  edges
+- degree: 點上有幾條邊
+  maximum degree
+	Hand Shaking Lemma: sum. of deg. is the twice of the edge
+	(PF: 在每個點旁邊的邊放tokens)
+	Odd pt. thm.: the number of the vertices with odd deg is even XD
+- Cycle: 踩點只能踩一次的圈圈
+  Problems: 最長的和最短的cycle?
+- simple graph: no self-loop
+- Bipartite graph: 分兩邊，一邊的點和另一邊的所有點相連
+  Partite sets
+  Thm.: bip. if and only if it has no cycle of odd length
+- Planar graph: can be drawn w/o crossing
+  - Dual of p. graph: place vertices at regions and join all vertices "near" it
+    Fact: odd-sided poly. can not be divided into even-sided polygons 
+    (Pf: take dual, contradict with odd pt. thm.)
+  - planar even-sided graph
+    Fact: any above graph is bip. 
+    (Pf: 你假設有一個odd cycle，那裡面一定要有一個點，和上一個fact矛盾)
+- Four color problem (thm.)
+  Thm.: any map on the plane can be colored by 4 colors
+- cube flip
+
+## The math behind the logo of the 2020 Tokyo Olympics Games
+
+大家一起協力合作拼出來的🤩
+
+![Imgur](https://imgur.com/bjfcg4b.png)
+![Imgur](https://imgur.com/ARMKyM5.png)
+
