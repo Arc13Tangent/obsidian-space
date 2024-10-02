@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T19:44:14.980+08:00","updated":"2024-10-02T20:08:46.269+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T19:44:14.980+08:00","updated":"2024-10-02T20:17:18.785+08:00"}
 ---
 
 
@@ -7,6 +7,10 @@
 
 今天上午是演講，但因為昨天太累了，我基本上只有和Tanaka教授有關的演講是醒著的(其他講者對不起)
 重點是下午的city bus tour(喂)
+![Imgur](https://imgur.com/Hb8vJhu.jpeg)
+<center><font size=2>
+不知道在拍照，沒看鏡頭 冏
+</font></center>
 
 ## 北方文化博物館
 > [TOP | 豪農の館「北方文化博物館」 (hoppou-bunka.com)](https://hoppou-bunka.com/english/)
