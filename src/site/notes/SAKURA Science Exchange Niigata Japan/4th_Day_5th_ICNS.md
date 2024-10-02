@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/4th_Day_5th_ICNS/","title":"4th Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T18:47:59.452+08:00","updated":"2024-10-02T19:25:43.978+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/4th_Day_5th_ICNS/","title":"4th Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T18:47:59.452+08:00","updated":"2024-10-02T20:22:27.561+08:00"}
 ---
 
 # The 5th International Congress on Natural Sciences with Sisterhood Universities (ICNS-2024)  Day 2
@@ -7,8 +7,10 @@
 > [Invitation letter - ICNS 2024 | The 5th International Congress on Natural Sciences with Sisterhood Universities (niigata-u.ac.jp)](https://www.sc.niigata-u.ac.jp/ICNS2024/program_tentative.html)
 
 今天是學生們和一些教授的演講 very緊張
-(由於不確定同學們希不希望公開，故皆不放照片)
+看到議程的最後自己和老師們的名字被印在上面 沒有體驗過這種感動的感覺 暫時想不到可以怎麼形容
+
 同學都跟鬼神一樣
+(由於不確定同學們希不希望公開，故皆不放照片)
 
 開心的是演講完後的休息時間，一些學生們跑來交換GitHub，並說我的演講很讚
 應該有幫學校留下好印象😎
