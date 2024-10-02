@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T19:44:14.980+08:00","updated":"2024-10-02T20:17:18.785+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T19:44:14.980+08:00","updated":"2024-10-02T20:18:26.170+08:00"}
 ---
 
 
 # The 5th International Congress on Natural Sciences with Sisterhood Universities (ICNS-2024)  Day 3 & City Bus Tour
 
 今天上午是演講，但因為昨天太累了，我基本上只有和Tanaka教授有關的演講是醒著的(其他講者對不起)
+
 重點是下午的city bus tour(喂)
 ![Imgur](https://imgur.com/Hb8vJhu.jpeg)
 <center><font size=2>
@@ -15,7 +16,7 @@
 ## 北方文化博物館
 > [TOP | 豪農の館「北方文化博物館」 (hoppou-bunka.com)](https://hoppou-bunka.com/english/)
 
-新瀉的米很有名，跟著米酒也很名。
+新瀉的米很有名，跟著米酒也很名，
 有名到行前說明的時候Tanaka教授特別提到了這件事。
 這次要去的北方文化博物館在成為博物館前，就是處理米的地方。
 
