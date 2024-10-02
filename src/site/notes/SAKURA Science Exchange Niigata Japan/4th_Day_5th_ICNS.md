@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/4th_Day_5th_ICNS/","title":"4th Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T18:47:59.452+08:00","updated":"2024-10-02T20:22:27.561+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/4th_Day_5th_ICNS/","title":"4th Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T18:47:59.452+08:00","updated":"2024-10-02T20:33:10.487+08:00"}
 ---
 
 # The 5th International Congress on Natural Sciences with Sisterhood Universities (ICNS-2024)  Day 2
+
+([[Journal/Daily/Diary-2024-09-27-Fri\|2024-09-27-Fri]])
 
 > [Invitation letter - ICNS 2024 | The 5th International Congress on Natural Sciences with Sisterhood Universities (niigata-u.ac.jp)](https://www.sc.niigata-u.ac.jp/ICNS2024/program_tentative.html)
 
@@ -68,3 +70,5 @@ Shazia和我有成功丟進一個！
 對……對不起……<br>
 他說他都手動調參數，因為他追求的是真實的感覺
 </font></center>
+
+<< [[SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS\|Last Day]] | [[SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour\|Next Day]] >>

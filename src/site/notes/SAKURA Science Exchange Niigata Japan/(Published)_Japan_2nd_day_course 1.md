@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/(Published)_Japan_2nd_day_course 1/","title":"2nd Day - Courses ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:19:06.798+08:00","updated":"2024-10-02T17:40:19.289+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/(Published)_Japan_2nd_day_course 1/","title":"2nd Day - Courses ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:19:06.798+08:00","updated":"2024-10-02T20:34:28.555+08:00"}
 ---
 
 
+([[Journal/Daily/Diary-2024-09-25-Wed\|2024-09-25-Wed]])
 # Graph Theory
 
 Instructor: Professor Suzuki (鈴木教授)
@@ -40,3 +41,4 @@ Instructor: Professor Suzuki (鈴木教授)
 ![Imgur](https://imgur.com/bjfcg4b.png)
 ![Imgur](https://imgur.com/ARMKyM5.png)
 
+<< [[SAKURA Science Exchange Niigata Japan/Japan_1st_day_factory tour_seminar\|Last Day]] | [[SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS\|Next Day]] >>

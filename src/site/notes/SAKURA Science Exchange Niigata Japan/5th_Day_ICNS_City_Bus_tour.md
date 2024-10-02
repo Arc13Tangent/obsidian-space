@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T19:44:14.980+08:00","updated":"2024-10-02T20:18:26.170+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T19:44:14.980+08:00","updated":"2024-10-02T20:33:26.297+08:00"}
 ---
 
 
 # The 5th International Congress on Natural Sciences with Sisterhood Universities (ICNS-2024)  Day 3 & City Bus Tour
+
+([[Journal/Daily/Diary-2024-09-28-Sat\|2024-09-28-Sat]])
 
 今天上午是演講，但因為昨天太累了，我基本上只有和Tanaka教授有關的演講是醒著的(其他講者對不起)
 
@@ -63,3 +65,5 @@
 我們就去裡面的免稅店而已
 裡面有很多米酒，不過也沒有前面提到的從博物館帶回來的那一瓶
 相信它會是很有代表性也很珍貴的紀念品！
+
+<< [[SAKURA Science Exchange Niigata Japan/4th_Day_5th_ICNS\|Last Day]] | [[SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour\|Next Day]] >>

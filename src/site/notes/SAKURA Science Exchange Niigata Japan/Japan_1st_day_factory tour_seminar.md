@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/Japan_1st_day_factory tour_seminar/","title":"1st Day - Factory Tour and Seminar ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-09-24T08:24:56.000+08:00","updated":"2024-10-02T17:07:03.201+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/Japan_1st_day_factory tour_seminar/","title":"1st Day - Factory Tour and Seminar ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-09-24T08:24:56.000+08:00","updated":"2024-10-02T20:34:18.545+08:00"}
 ---
 
+
+([[Journal/Daily/Diary-2024-09-24-Tue\|2024-09-24-Tue]])
 # Factory Tour
 
 > [!info] The Company Visited:
@@ -50,3 +52,4 @@
 ![Imgur](https://imgur.com/x8F6p0F.jpeg)
 ![Imgur](https://imgur.com/TAjtelr.jpeg)
 
+<< [[SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS\|Last Day]] | [[SAKURA Science Exchange Niigata Japan/(Published)_Japan_2nd_day_course 1\|Next Day]] >>

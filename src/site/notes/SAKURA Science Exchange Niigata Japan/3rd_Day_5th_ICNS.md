@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS/","title":"3rd Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:47:04.434+08:00","updated":"2024-10-02T19:38:02.990+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS/","title":"3rd Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:47:04.434+08:00","updated":"2024-10-02T20:33:43.840+08:00"}
 ---
 
 
 # The 5th International Congress on Natural Sciences with Sisterhood Universities (ICNS-2024)  Day 1
+
+([[Journal/Daily/Diary-2024-09-26-Thu\|2024-09-26-Thu]])
 
 > [ICNS 2024 | The 5th International Congress on Natural Sciences with Sisterhood Universities (niigata-u.ac.jp)](https://www.sc.niigata-u.ac.jp/ICNS2024/index.html)
 
@@ -160,3 +162,5 @@
 不怎麼喝酒，不過開場環節是甘杯，而且真的很香，所以還是喝了一點
 有新瀉大學的學生來我們這桌，就鼓起勇氣和他說這邊的酒和食物和校園都很棒
 (我知道這個開場白很爛 但我真的不會social QAQ我努力了)
+
+<< [[SAKURA Science Exchange Niigata Japan/(Published)_Japan_2nd_day_course 1\|Last Day]] | [[SAKURA Science Exchange Niigata Japan/4th_Day_5th_ICNS\|Next Day]] >>
