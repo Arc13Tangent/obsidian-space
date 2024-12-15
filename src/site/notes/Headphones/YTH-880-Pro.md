@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Headphones/YTH-880-Pro/","title":"初燒的 YTH-880 Pro 心得","noteIcon":"1","created":"2024-12-15T15:11:07.705+08:00","updated":"2024-12-15T17:45:43.748+08:00"}
+{"dg-publish":true,"permalink":"/Headphones/YTH-880-Pro/","title":"初燒的 YTH-880 Pro 心得","noteIcon":"1","created":"2024-12-15T15:11:07.705+08:00","updated":"2024-12-15T18:01:57.156+08:00"}
 ---
 
 由於閱歷不夠廣，沒有辦法像許多大大一樣精準描述聽感
@@ -11,6 +11,7 @@
 > [!SUMMARY] 
  這支耳罩 in some sense 和我原本的主力耳機互補，讓我能欣賞更多塵封在資料庫中的曲子
 
+同步更新於巴哈姆特： https://forum.gamer.com.tw/Co.php?bsn=60535&sn=48125
 # 為什麼會入手這支
 經歷過「捏一下」買各種東西因而連續好幾個月都吃土的感覺，希望自己這次能以完全沒有負擔的預算購入一支能舒服聽的耳罩
 其實原本的主力機ikko oh1s配上AEX70耳塞配戴上已經很舒服，但連續聽久了還是有點負擔(沒有想要休息一下的意思XD)
