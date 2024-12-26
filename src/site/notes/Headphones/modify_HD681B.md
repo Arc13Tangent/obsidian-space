@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Headphones/modify_HD681B/","title":"爆改Superlux HD681B","noteIcon":"1","created":"2024-12-26T16:36:36.315+08:00","updated":"2024-12-26T17:43:18.230+08:00"}
+{"dg-publish":true,"permalink":"/Headphones/modify_HD681B/","title":"爆改Superlux HD681B","noteIcon":"1","created":"2024-12-26T16:36:36.315+08:00","updated":"2024-12-26T17:50:38.959+08:00"}
 ---
 
 這是第一次改耳機，有很多地方手笨好幾回，技術還有待進步
@@ -60,7 +60,7 @@
 ![img|500](https://i.imgur.com/enPBA4E.jpeg)
 
 弄得超醜XDDDD
-不過遠遠看好像有點樣子~~(自己講)~~
+不過遠遠看好像有點樣子 ~~(自己講)~~
 
 ## 換改左邊
 其實和右邊差不多，因為沒有要改那條耳機線，所以耳機線那一端的黑色絕緣套直接拔掉就好了
