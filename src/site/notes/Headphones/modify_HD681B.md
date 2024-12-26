@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/Headphones/modify_HD681B/","title":"爆改Superlux HD681B","noteIcon":"1","created":"2024-12-26T16:36:36.315+08:00","updated":"2024-12-26T17:37:49.191+08:00"}
+{"dg-publish":true,"permalink":"/Headphones/modify_HD681B/","title":"爆改Superlux HD681B","noteIcon":"1","created":"2024-12-26T16:36:36.315+08:00","updated":"2024-12-26T17:43:18.230+08:00"}
 ---
 
 這是第一次改耳機，有很多地方手笨好幾回，技術還有待進步
 希望不會炸到各位的眼睛XD
 今天要改的是這一支，在我上一篇文章提到從博客來隨便買的650元耳罩：Superlux 的HD681B
+
+同步更新於巴哈姆特： https://forum.gamer.com.tw/Co.php?bsn=60535&sn=48228
 
 # 為什麼要改這一支
 ![img|500](https://i.imgur.com/Ppc590n.jpeg)
@@ -57,12 +59,12 @@
 接著用熱融膠想辦法固定
 ![img|500](https://i.imgur.com/enPBA4E.jpeg)
 
-我知道我弄得很醜QAQ
-不過遠遠看好像有點樣子(自己講)
+弄得超醜XDDDD
+不過遠遠看好像有點樣子~~(自己講)~~
 
 ## 換改左邊
 其實和右邊差不多，因為沒有要改那條耳機線，所以耳機線那一端的黑色絕緣套直接拔掉就好了
-然後解焊掉導體棒那個地方，也就是和右側相通的地方(其實是剪掉，發現能用剪的後就懶了)
+然後解焊掉導體棒那個地方，也就是和右側相通處(其實是剪掉，發現能用剪的後就懶了)
 重覆剛剛左邊做的事就可以了
 ![img|500](https://i.imgur.com/BedjEAv.jpeg)
 
