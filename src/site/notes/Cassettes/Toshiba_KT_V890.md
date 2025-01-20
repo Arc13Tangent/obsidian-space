@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T14:33:28.417+08:00"}
+{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T14:37:11.384+08:00"}
 ---
-
-# 來自1985年的時光膠囊──Toshiba KT-V890
 
 本文有融合一些在fb社團發表過的文章段落
 假設你剛好看到某些句子似曾相識 那不是你記錯XD
