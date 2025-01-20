@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T15:09:05.271+08:00"}
+{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T15:16:28.702+08:00"}
 ---
 
 本文有融合一些在fb社團發表過的文章段落
 假設你剛好看到某些句子似曾相識 那不是你記錯XD
+
+同步更新於巴哈姆特： https://forum.gamer.com.tw/Co.php?bsn=60535&sn=48784
 
 ![img](https://i.imgur.com/zoYU5cl.jpeg)
 ## 這是什麼？
@@ -84,7 +86,7 @@ Toshiba 其實並不是當時做卡帶機最大的三個品牌之一(SONY、AIWA
 ![img|100](https://i.imgur.com/UrHBWM7.jpeg)
 
 當時很多卡帶機有配備廣播功能，這一台也有
-現在也還聽得到滿多台的！
+現在也還聽得到滿多電台的！
 只要將空白帶放進機器，就可以在聽到想記錄下來的片段時按下錄音
 將廣播的內容錄進帶子裡
 ![img](https://i.imgur.com/sAa5mwP.jpeg)
