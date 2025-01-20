@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T14:22:24.623+08:00"}
+{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T14:30:44.545+08:00"}
 ---
 
 # 來自1985年的時光膠囊──Toshiba KT-V890
@@ -7,7 +7,7 @@
 本文有融合一些在fb社團發表過的文章段落
 假設你剛好看到某些句子似曾相識 那不是你記錯XD
 
-![img](https://i.imgur.com/0rmVXpo.jpeg)
+![img](https://i.imgur.com/MdgETtu.jpeg)
 ## 這是什麼？
 這個問題看似有點87，但實測問了身邊朋友，只有我的國中導師看到就知道這是什麼
 在認識它以前要是突然拿給我看，我可能也不知道XD
@@ -162,7 +162,7 @@ Toshiba 其實並不是當時做卡帶機最大的三個品牌之一(SONY、AIWA
 Made in Japan的東西就是不一樣(x)
 
 #### 功能按鍵
-如圖所見，調整音量、選擇廣播電台、開啟降噪等都是由滑動式開關或是轉輪來調整
+如圖所見，調整音量、選擇廣播電台、開啟降噪等都是由開關或是轉輪來調整
 轉輪手感非常好！而且可以進行很細微的調整(望向M15S的音量調節輪)
 ![img](https://i.imgur.com/Mi1IBtX.jpeg)
 
