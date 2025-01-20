@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T14:37:11.384+08:00"}
+{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T15:00:59.228+08:00"}
 ---
 
 本文有融合一些在fb社團發表過的文章段落
@@ -43,7 +43,7 @@
 這樣柔和的音樂載體，配上充滿機械美的機身外觀
 讓我連續快一週在夜裡輾轉反側、徹夜難眠
 所以即便知道不論是卡帶還是隨身聽都維護不易，還是一頭栽了進去
-### 帶我穿越回過往它們曾經綻放的時代
+### 它們帶我穿越回過往曾經綻放的時代
 ![img](https://i.imgur.com/GgPYCfW.jpeg)
 
 ## Toshiba KT-V890 卡帶隨身聽
