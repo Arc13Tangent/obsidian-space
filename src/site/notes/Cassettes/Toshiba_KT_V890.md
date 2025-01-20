@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T15:16:28.702+08:00"}
+{"dg-publish":true,"permalink":"/Cassettes/Toshiba_KT_V890/","title":"來自1985年的時光膠囊──Toshiba KT-V890","noteIcon":"1","created":"2025-01-20T00:38:35.399+08:00","updated":"2025-01-20T15:23:11.716+08:00"}
 ---
 
 本文有融合一些在fb社團發表過的文章段落
@@ -164,7 +164,7 @@ Made in Japan的東西就是不一樣(x)
 
 #### 功能按鍵
 如圖所見，調整音量、選擇廣播電台、開啟降噪等都是由開關或是轉輪來調整
-轉輪手感非常好！而且可以進行很細微的調整(望向M15S的音量調節輪)
+轉輪手感非常好！而且可以進行很細微的調整~~(望向M15S的音量調節輪)~~
 ![img](https://i.imgur.com/Mi1IBtX.jpeg)
 
 ### 供電方式
