@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-Solidified Extraction/Math/A-More-General-Discrete-Delay/","title":"A More General Discrete Delay","noteIcon":"1","created":"2024-09-21T00:34:20.074+08:00","updated":"2024-09-21T02:44:50.689+08:00"}
+{"dg-publish":true,"permalink":"/04-Solidified Extraction/Math/A-More-General-Discrete-Delay/","title":"A More General Discrete Delay","noteIcon":"1","created":"2025-03-03T08:48:31.896+08:00","updated":"2025-03-03T08:48:31.896+08:00"}
 ---
 
 

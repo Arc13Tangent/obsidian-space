@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS/","title":"3rd Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:47:04.434+08:00","updated":"2024-10-02T20:36:03.639+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/3rd_Day_5th_ICNS/","title":"3rd Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2025-03-03T08:48:32.119+08:00","updated":"2025-03-03T08:48:32.119+08:00"}
 ---
 
 

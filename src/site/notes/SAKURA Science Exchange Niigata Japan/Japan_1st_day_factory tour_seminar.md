@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/Japan_1st_day_factory tour_seminar/","title":"1st Day - Factory Tour and Seminar ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-09-24T08:24:56.000+08:00","updated":"2024-10-02T22:09:13.578+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/Japan_1st_day_factory tour_seminar/","title":"1st Day - Factory Tour and Seminar ~ SAKURA Science exchange ~","noteIcon":"1","created":"2025-03-03T08:48:32.120+08:00","updated":"2025-03-03T08:48:32.120+08:00"}
 ---
 
 

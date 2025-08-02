@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T19:44:14.980+08:00","updated":"2024-10-02T20:33:26.297+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/5th_Day_ICNS_City_Bus_tour/","title":"5th Day - 5th ICNS & City Bus Tour ~ SAKURA Science exchange ~","noteIcon":"1","created":"2025-03-03T08:48:32.120+08:00","updated":"2025-03-03T08:48:32.120+08:00"}
 ---
 
 

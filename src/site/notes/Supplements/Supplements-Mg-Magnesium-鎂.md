@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Supplements/Supplements-Mg-Magnesium-鎂/","title":"Magnesium 鎂","noteIcon":"1","created":"2024-08-25T11:22:45.000+08:00","updated":"2024-10-01T17:10:04.652+08:00"}
+{"dg-publish":true,"permalink":"/Supplements/Supplements-Mg-Magnesium-鎂/","title":"Magnesium 鎂","noteIcon":"1","created":"2025-03-03T08:48:32.135+08:00","updated":"2025-03-03T08:48:32.135+08:00"}
 ---
 
 一起吃不錯 Great to serve together：[[Supplements/Supplements-Calcium-Ca-鈣\|鈣-Ca]] 

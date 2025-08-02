@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/embed-pdf-from-google-drive/","title":"Embed PDFs from Google Drive","noteIcon":"1","created":"2024-09-16T02:15:54.000+08:00","updated":"2024-09-16T10:14:21.000+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/embed-pdf-from-google-drive/","title":"Embed PDFs from Google Drive","noteIcon":"1","created":"2025-03-03T08:48:32.155+08:00","updated":"2025-03-03T08:48:32.155+08:00"}
 ---
 
 

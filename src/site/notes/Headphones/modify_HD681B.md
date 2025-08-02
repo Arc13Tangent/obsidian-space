@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Headphones/modify_HD681B/","title":"爆改Superlux HD681B","noteIcon":"1","created":"2024-12-26T16:36:36.315+08:00","updated":"2024-12-26T17:50:38.959+08:00"}
+{"dg-publish":true,"permalink":"/Headphones/modify_HD681B/","title":"爆改Superlux HD681B","noteIcon":"1","created":"2025-03-03T08:48:32.061+08:00","updated":"2025-03-03T08:48:32.061+08:00"}
 ---
 
 這是第一次改耳機，有很多地方手笨好幾回，技術還有待進步

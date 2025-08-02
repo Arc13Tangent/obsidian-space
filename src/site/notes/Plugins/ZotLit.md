@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Plugins/ZotLit/","title":"ZotLit","tags":["Zotero","Obsidian"],"noteIcon":"1","created":"2024-09-07T18:16:11.247+08:00","updated":"2024-09-07T19:43:33.139+08:00"}
+{"dg-publish":true,"permalink":"/Plugins/ZotLit/","title":"ZotLit","tags":["Zotero","Obsidian"],"noteIcon":"1","created":"2025-03-03T08:48:32.102+08:00","updated":"2025-03-03T08:48:32.102+08:00"}
 ---
 
 # ZotZit: Obsidian 與 Zotero 的完美結合

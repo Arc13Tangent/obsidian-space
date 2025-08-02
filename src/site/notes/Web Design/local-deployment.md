@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/local-deployment/","title":"Local deployment of digital garden","noteIcon":"1","created":"2024-09-17T01:14:59.200+08:00","updated":"2024-09-17T01:54:37.762+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/local-deployment/","title":"Local deployment of digital garden","noteIcon":"1","created":"2025-03-03T08:48:32.156+08:00","updated":"2025-03-03T08:48:32.156+08:00"}
 ---
 
 

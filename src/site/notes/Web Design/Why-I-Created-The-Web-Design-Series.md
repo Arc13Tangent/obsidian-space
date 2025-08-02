@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Web Design/Why-I-Created-The-Web-Design-Series/","title":"Why I Created The Web Design Series","noteIcon":"2","created":"2024-09-16T03:19:22.000+08:00","updated":"2024-09-16T10:14:21.000+08:00"}
+{"dg-publish":true,"permalink":"/Web Design/Why-I-Created-The-Web-Design-Series/","title":"Why I Created The Web Design Series","noteIcon":"2","created":"2025-03-03T08:48:32.155+08:00","updated":"2025-03-03T08:48:32.155+08:00"}
 ---
 
 

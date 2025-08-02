@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/(Published)_Japan_2nd_day_course 1/","title":"2nd Day - Courses ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T17:19:06.798+08:00","updated":"2024-10-02T22:05:05.435+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/(Published)_Japan_2nd_day_course 1/","title":"2nd Day - Courses ~ SAKURA Science exchange ~","noteIcon":"1","created":"2025-03-03T08:48:32.105+08:00","updated":"2025-03-03T08:48:32.106+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Plugins/插件用途-plugins/","title":"插件用途筆記 Plugins Note","tags":["Obsidian"],"noteIcon":"1","created":"2024-09-02T10:15:36.000+08:00","updated":"2024-09-08T00:43:23.724+08:00"}
+{"dg-publish":true,"permalink":"/Plugins/插件用途-plugins/","title":"插件用途筆記 Plugins Note","tags":["Obsidian"],"noteIcon":"1","created":"2025-03-03T08:48:32.103+08:00","updated":"2025-03-03T08:48:32.103+08:00"}
 ---
 
 # 插件用途

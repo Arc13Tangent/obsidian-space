@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-Solidified Extraction/Math/前歷史_Prehistory/","title":"前歷史 Prehistory in DDE","tags":["DDE"],"noteIcon":"1","created":"2024-09-11T21:57:39.000+08:00","updated":"2024-09-21T02:42:16.906+08:00"}
+{"dg-publish":true,"permalink":"/04-Solidified Extraction/Math/前歷史_Prehistory/","title":"前歷史 Prehistory in DDE","tags":["DDE"],"noteIcon":"1","created":"2025-03-03T08:48:31.912+08:00","updated":"2025-03-03T08:48:31.913+08:00"}
 ---
 
 舉例來說，DDE洗澡方程只能apply到$t\geq0$的時候，想知道時間$=s <\tau$的時候的溫度變化，就需要有$T(s-\tau)$這個初值。

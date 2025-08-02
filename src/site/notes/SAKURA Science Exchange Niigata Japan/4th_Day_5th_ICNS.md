@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/4th_Day_5th_ICNS/","title":"4th Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2024-10-02T18:47:59.452+08:00","updated":"2024-10-02T20:33:10.487+08:00"}
+{"dg-publish":true,"permalink":"/SAKURA Science Exchange Niigata Japan/4th_Day_5th_ICNS/","title":"4th Day - 5th ICNS ~ SAKURA Science exchange ~","noteIcon":"1","created":"2025-03-03T08:48:32.119+08:00","updated":"2025-03-03T08:48:32.119+08:00"}
 ---
 
 # The 5th International Congress on Natural Sciences with Sisterhood Universities (ICNS-2024)  Day 2
