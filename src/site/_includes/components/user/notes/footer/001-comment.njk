@@ -1,20 +1,45 @@
-<div class="content"><div id="disqus_thread"></div></div>
+<div class="disqus-shell">
+  <div id="disqus_thread"></div>
+</div>
+
+<style>
+/* --- Disqus glassy wrapper (半透明＋圓角＋霧面) --- */
+.disqus-shell{
+  --bg: rgba(20,20,20,0.6);            /* 半透明黑 */
+  background: var(--bg);
+  backdrop-filter: blur(12px) saturate(120%);
+  -webkit-backdrop-filter: blur(12px) saturate(120%);
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+  padding: 12px;
+  overflow: hidden;                    /* 讓圓角把內部邊緣「裁掉」 */
+}
+
+/* 讓卡片在內容區域置中、不要緊貼邊界（可依你的版型調整） */
+.disqus-shell { margin: 1.25rem auto; max-width: 900px; }
+
+/* 沒有支援 backdrop-filter 的瀏覽器用較深、不透明的 fallback */
+@supports not ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+  .disqus-shell{ background: rgba(20,20,20,0.9); }
+}
+
+/* 若你的網站是亮色主題，可調整文字顏色（不會影響 iframe 內部） */
+.disqus-shell { color: rgba(255,255,255,0.85); }
+</style>
 
 <script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
+  /* 若你有 canonical URL / identifier，照官方註解填入以避免快取錯亂 */
+  /* var disqus_config = function () {
+      this.page.url = PAGE_URL;
+      this.page.identifier = PAGE_IDENTIFIER;
+    }; */
+
+  (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://https-obsidian-space-delta-vercel-app.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
-    })();
+  })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
