@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-Solidified Extraction/Math/Method_of_Steps/","title":"Method of steps","tags":["DDE"],"noteIcon":"1","created":"2025-03-03T08:48:31.909+08:00","updated":"2025-03-03T08:48:31.909+08:00"}
+{"dg-publish":true,"permalink":"/04-Solidified Extraction/Math/Method_of_Steps/","title":"Method of steps","tags":["DDE"],"noteIcon":"1","created":"2025-03-03T08:48:31.908+08:00","updated":"2025-03-03T08:48:31.908+08:00"}
 ---
 
 在discrete delay的DDE中，可以拿第0步([[04-Solidified Extraction/Math/前歷史_Prehistory\|前歷史]])代入DDE解出第1步在$[0, \tau]$上

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Headphones/YTH-880-Pro/","title":"初燒的 YTH-880 Pro 心得","noteIcon":"1","created":"2025-03-03T08:48:32.060+08:00","updated":"2025-03-03T08:48:32.061+08:00"}
+{"dg-publish":true,"permalink":"/Headphones/YTH-880-Pro/","title":"初燒的 YTH-880 Pro 心得","noteIcon":"1","created":"2025-03-03T08:48:32.060+08:00","updated":"2025-03-03T08:48:32.060+08:00"}
 ---
 
 由於閱歷不夠廣，沒有辦法像許多大大一樣精準描述聽感
