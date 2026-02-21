@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T15:32:23.396+08:00"}
+{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T15:45:39.605+08:00"}
 ---
 
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 # Zotero 介紹
 
@@ -89,7 +90,6 @@
   urldate = {2026-02-21},
   archiveprefix = {arXiv},
   langid = {american},
-  file = {/Users/tangent/Documents/Zotero/storage/6K6TYYN7/Wang et al. - 2022 - Interpretability in the Wild a Circuit for Indirect Object Identification in GPT-2 small.pdf;/Users/tangent/Documents/Zotero/storage/YUD3ZA25/2211.html}
 }
 ```
 
