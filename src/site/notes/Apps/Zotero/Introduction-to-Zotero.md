@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T15:05:41.418+08:00"}
+{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T15:09:17.753+08:00"}
 ---
 
 
@@ -20,7 +20,8 @@
 
 ## 有了 Zotero 能做什麼？
 
-### 快速下載文獻{ #6d931e}
+### 快速下載文獻
+{ #6d931e}
 
 #### 以 [arxiv.org](https://arxiv.org/) 為例
 
@@ -36,7 +37,8 @@
 
 ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724403.png)
   
-### 文獻閱讀與筆記{ #00ef89}
+### 文獻閱讀與筆記
+{ #00ef89}
 
 
 #### 在 PDF 檔上做筆記
@@ -141,7 +143,8 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 
 ### 4. 引用文獻
 
-#### Word{ #4591d7}
+#### Word
+{ #4591d7}
 
 
 開啟 Word 後會出現 Zotero 選單。
@@ -160,7 +163,8 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 5. 之後引用其它文獻時，會自動更新參考文獻：
    ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724420.gif)
 
-#### Overleaf/LaTeX{ #e8f284}
+#### Overleaf/LaTeX
+{ #e8f284}
 
 
 以在Overleaf上編輯 `.bib` 檔為例。請先[[Apps/Zotero/Introduction-to-Zotero#^50d894\|下載 Better BibTeX 插件]]。
@@ -191,7 +195,9 @@ Zotero有許多開源的插件，絕大部分的原始碼可以在GitHub上看�
 > 另外，有一些插件需要提供API Keys或是其它私人資訊，請先看過GitHub頁面相關的討論來判斷此插件是否安全。
 
 以下以 Better BibTeX 插件為例，示範如何安裝插件。
-### Better BibTeX{ #50d894}
+
+### Better BibTeX
+{ #50d894}
 
 
 [GitHub 頁面](https://github.com/retorquere/zotero-better-bibtex)
@@ -208,7 +214,8 @@ Zotero有許多開源的插件，絕大部分的原始碼可以在GitHub上看�
    ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724432.png)
 6. 安裝好後若想設定它，進 Zotero 的設定 (MacOS 快捷鍵 `command` + `,`) 即可。
 
-### Translate for Zotero{ #c20145}
+### Translate for Zotero
+{ #c20145}
 
 
 安裝插件方式請參考[[Apps/Zotero/Introduction-to-Zotero#^50d894\|以安裝 Better BibTeX 為例的教學]]
