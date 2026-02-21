@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T15:45:39.605+08:00"}
+{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T19:02:12.050+08:00"}
 ---
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
-
-# Zotero 介紹
 
 ## 特點
 
@@ -234,6 +232,7 @@ Zotero有許多開源的插件，絕大部分的原始碼可以在GitHub上看�
 	  ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724437.gif)
 - 請參考插件作者寫的[文件](https://zotlit.aidenlx.top/)來設定
 
+同步更新於： https://arc13tangent.github.io/Intro-to-Zotero/
 
 ---
 ## 授權條款 (License)
