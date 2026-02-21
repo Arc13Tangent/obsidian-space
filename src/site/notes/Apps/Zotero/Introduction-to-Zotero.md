@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T14:48:31.864+08:00"}
+{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T14:54:01.820+08:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 #### 以 [arxiv.org](https://arxiv.org/) 為例
 
-一旦進入想下載的 paper 的頁面，[Zotero 瀏覽器插件](Apps/Zotero/Introduction-to-Zotero.md#^16bc83) 會自動識別出這是 arxiv 上的文獻。
+一旦進入想下載的 paper 的頁面，[Zotero 瀏覽器插件](#^16bc83) 會自動識別出這是 arxiv 上的文獻。
 點擊後 PDF 和該頁面的 html 快照會自動下載至 Zotero 當前的資料夾中。
 ![|300](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221144756255%201.png)
 ![|300](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221144756255.png)
@@ -55,7 +55,7 @@
 
 #### 論文翻譯
 
-[點我跳轉至教學](Apps/Zotero/Introduction-to-Zotero.md#^c20145)
+[點我跳轉至教學](#^c20145)
 
 ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221144756133%201.png)
 
@@ -121,7 +121,7 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 ### 1. 新增 Collection
 
 在左上角有一個像資料夾的圖示，相當於幫 project 或是正在撰寫的論文開一個資料夾，來存放和它相關的文獻。
-點進去這個 collection 後，任何從 [Zotero Connector(瀏覽器插件)](Apps/Zotero/Introduction-to-Zotero.md#^16bc83) 下載的文件會自動收納在這個 collection 底下。
+點進去這個 collection 後，任何從 [Zotero Connector(瀏覽器插件)](#^16bc83) 下載的文件會自動收納在這個 collection 底下。
 ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221144756217.png)
 
 ### 2. 新增文獻
