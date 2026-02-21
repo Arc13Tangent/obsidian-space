@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T19:02:12.050+08:00"}
+{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T19:03:12.074+08:00"}
 ---
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
