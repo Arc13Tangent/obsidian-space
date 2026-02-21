@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T14:59:39.971+08:00"}
+{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T15:05:41.418+08:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 #### 以 [arxiv.org](https://arxiv.org/) 為例
 
-一旦進入想下載的 paper 的頁面，[Zotero 瀏覽器插件](Introduction-to-Zotero.md#^16bc83) 會自動識別出這是 arxiv 上的文獻。 [[Apps/Zotero/Introduction-to-Zotero#^16bc83\|#^16bc83]]
+一旦進入想下載的 paper 的頁面，[[Apps/Zotero/Introduction-to-Zotero#^16bc83\|Zotero 瀏覽器插件]]會自動識別出這是 arxiv 上的文獻。 
 點擊後 PDF 和該頁面的 html 快照會自動下載至 Zotero 當前的資料夾中。
 ![|300](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724400%201.png)
 ![|300](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724401.png)
@@ -55,19 +55,21 @@
 
 #### 論文翻譯
 
-[點我跳轉至教學](Introduction-to-Zotero.md#^c20145)
+[[Apps/Zotero/Introduction-to-Zotero#^c20145\|點我跳轉至教學]]
 
 ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724406.png)
 
 ### 與 Word 連動
 
-[點我跳轉至教學](Introduction-to-Zotero.md#^4591d7)
+[[Apps/Zotero/Introduction-to-Zotero#^4591d7\|點我跳轉至教學]]
+
 選擇選單中的 Zotero 後，即可插入引用和新增參考文獻。
 ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724407.png)
 
 ### 導出 BibTeX for LaTeX
 
-[點我跳轉至教學](Introduction-to-Zotero.md#^e8f284)
+[[Apps/Zotero/Introduction-to-Zotero#^e8f284\|點我跳轉至教學]]
+
 在安裝 Better BibTeX 插件後，可以快速取得下方的引用資料，直接貼進 LaTeX/Overleaf 中
 
 ```tex title:"這是由 Zotero 導出的 BibTeX 格式"
@@ -121,19 +123,19 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 ### 1. 新增 Collection
 
 在左上角有一個像資料夾的圖示，相當於幫 project 或是正在撰寫的論文開一個資料夾，來存放和它相關的文獻。
-點進去這個 collection 後，任何從 [Zotero Connector(瀏覽器插件)](Introduction-to-Zotero.md#^16bc83) 下載的文件會自動收納在這個 collection 底下。
+點進去這個 collection 後，任何從 [[Apps/Zotero/Introduction-to-Zotero#^16bc83\|Zotero Connector(瀏覽器插件)]] 下載的文件會自動收納在這個 collection 底下。
 ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724409.png)
 
 ### 2. 新增文獻
 
-除了[直接從瀏覽器導入](Introduction-to-Zotero.md#^6d931e)之外，也可以把電腦上的檔案拖進 collection 中，會自動嘗試抓取metadata 和 PDF。
+除了[[Apps/Zotero/Introduction-to-Zotero#^6d931e\|直接從瀏覽器導入]]之外，也可以把電腦上的檔案拖進 collection 中，會自動嘗試抓取metadata 和 PDF。
 如果有抓取成功，就可以讓 Zotero 自動格式化引用。
 導入後原本的那個檔案可以刪掉，因為 Zotero 已經複製一份存放在安全的地方了。
 ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724413.gif)
 
 ### 3. 在文獻上做筆記
 
-請參考[這一節](Introduction-to-Zotero.md#^00ef89)。若想使用 Zotero 來做筆記，請開啟設定 (MacOS快捷鍵：`command` + `,`)，並將 Reader 中的 `Open PDFs using` 以及 `Open snapshots using` 設定成 `Zotero`。
+請參考[[Apps/Zotero/Introduction-to-Zotero#^00ef89\|這一節]]。若想使用 Zotero 來做筆記，請開啟設定 (MacOS快捷鍵：`command` + `,`)，並將 Reader 中的 `Open PDFs using` 以及 `Open snapshots using` 設定成 `Zotero`。
 相反地，若想用電腦上的預設應用程式開啟，請選擇 `System Default`。
 ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724414.png)
 
@@ -161,7 +163,7 @@ K. Wang, A. Variengien, A. Conmy, B. Shlegeris, and J. Steinhardt, “Interpreta
 #### Overleaf/LaTeX{ #e8f284}
 
 
-以在Overleaf上編輯 `.bib` 檔為例。請先[下載 Better BibTeX 插件](Introduction-to-Zotero.md#^50d894)。
+以在Overleaf上編輯 `.bib` 檔為例。請先[[Apps/Zotero/Introduction-to-Zotero#^50d894\|下載 Better BibTeX 插件]]。
 接著，對想引用的文獻 `右鍵 -> Better BibTeX -> copy BibTeX to clipboard`
 ![](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724421.png)
 
@@ -209,7 +211,7 @@ Zotero有許多開源的插件，絕大部分的原始碼可以在GitHub上看�
 ### Translate for Zotero{ #c20145}
 
 
-安裝插件方式請參考[以安裝 Better BibTeX 為例的教學](Introduction-to-Zotero.md#^50d894)
+安裝插件方式請參考[[Apps/Zotero/Introduction-to-Zotero#^50d894\|以安裝 Better BibTeX 為例的教學]]
 
 - [GitHub 頁面](https://github.com/windingwind/zotero-pdf-translate#readme)
 - 若想使用自己的API key用ChatGPT來翻譯，請去Zotero 的設定 (MacOS 快捷鍵 `command` + `,`) 輸入 key
