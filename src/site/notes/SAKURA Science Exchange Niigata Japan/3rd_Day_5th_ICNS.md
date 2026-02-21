@@ -5,7 +5,7 @@
 
 # The 5th International Congress on Natural Sciences with Sisterhood Universities (ICNS-2024)  Day 1
 
-([[Journal/Daily/Diary-2024-09-26-Thu\|2024-09-26-Thu]])
+([[Diary-2024-09-26-Thu\|2024-09-26-Thu]])
 
 > [ICNS 2024 | The 5th International Congress on Natural Sciences with Sisterhood Universities (niigata-u.ac.jp)](https://www.sc.niigata-u.ac.jp/ICNS2024/index.html)
 

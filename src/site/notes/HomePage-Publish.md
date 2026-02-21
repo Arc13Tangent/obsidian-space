@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"2","created":"2025-03-03T08:48:32.061+08:00","updated":"2025-03-03T08:48:32.061+08:00"}
+{"dg-publish":true,"permalink":"/HomePage-Publish/","title":"Home","tags":["gardenEntry"],"noteIcon":"2","created":"2025-03-03T08:48:32.061+08:00","updated":"2026-01-17T20:15:49.415+08:00"}
 ---
 
 <center>🌙 This is the home page of arcTangent's OuOb space! 🔮</center>
@@ -39,7 +39,7 @@ This journey is truly fascinating, and it’s only just beginning!
 
 ---
 #### Who am I?
-![IMG-20240921072656770.png|50](/img/user/Attachments/HomePage-Publish/IMG-20240921072656770.png)
+![Attachments/HomePage-Publish/file-20260117201546159.png|50](/img/user/Attachments/HomePage-Publish/file-20260117201546159.png)
 A quiet observer of the myth and beauty hidden within mathematics.
 
 ---

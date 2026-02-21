@@ -3,7 +3,7 @@
 ---
 
 
-([[Journal/Daily/Diary-2024-09-25-Wed\|2024-09-25-Wed]])
+([[Diary-2024-09-25-Wed\|2024-09-25-Wed]])
 # Graph Theory
 
 Instructor: Professor Suzuki (鈴木教授)

@@ -5,7 +5,7 @@
 
 # The 5th International Congress on Natural Sciences with Sisterhood Universities (ICNS-2024)  Day 3 & City Bus Tour
 
-([[Journal/Daily/Diary-2024-09-28-Sat\|2024-09-28-Sat]])
+([[Diary-2024-09-28-Sat\|2024-09-28-Sat]])
 
 今天上午是演講，但因為昨天太累了，我基本上只有和Tanaka教授有關的演講是醒著的(其他講者對不起)
 

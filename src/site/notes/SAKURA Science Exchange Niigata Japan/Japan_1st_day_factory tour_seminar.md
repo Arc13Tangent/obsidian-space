@@ -3,7 +3,7 @@
 ---
 
 
-([[Journal/Daily/Diary-2024-09-24-Tue\|2024-09-24-Tue]])
+([[Diary-2024-09-24-Tue\|2024-09-24-Tue]])
 # Factory Tour
 
 > [!info] The Company Visited:
