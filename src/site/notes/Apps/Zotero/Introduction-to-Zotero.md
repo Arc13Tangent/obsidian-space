@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T14:57:26.038+08:00"}
+{"dg-publish":true,"permalink":"/Apps/Zotero/Introduction-to-Zotero/","title":"Introduction to Zotero","noteIcon":"1","created":"2026-02-21T10:33:09.830+08:00","updated":"2026-02-21T14:59:39.971+08:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 
 #### 以 [arxiv.org](https://arxiv.org/) 為例
 
-一旦進入想下載的 paper 的頁面，[Zotero 瀏覽器插件](Introduction-to-Zotero.md#^16bc83) 會自動識別出這是 arxiv 上的文獻。
+一旦進入想下載的 paper 的頁面，[Zotero 瀏覽器插件](Introduction-to-Zotero.md#^16bc83) 會自動識別出這是 arxiv 上的文獻。 [[Apps/Zotero/Introduction-to-Zotero#^16bc83\|#^16bc83]]
 點擊後 PDF 和該頁面的 html 快照會自動下載至 Zotero 當前的資料夾中。
 ![|300](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724400%201.png)
 ![|300](/img/user/Apps/Zotero/Attachments/Introduction-to-Zotero/file-20260221145724401.png)
